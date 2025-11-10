@@ -1,0 +1,4864 @@
+# Translation of Plugins - Contact Form builder with drag &amp; drop for WordPress &#8211; Kali Forms - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Contact Form builder with drag &amp; drop for WordPress &#8211; Kali Forms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-09 13:15:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Contact Form builder with drag &amp; drop for WordPress &#8211; Kali Forms - Stable (latest release)\n"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:322
+msgid "Delete entries after a certain amount of time (in days). Use 0 to never delete entries."
+msgstr "Удалить записи через определенное время (в днях). Используйте 0, чтобы никогда не удалять записи."
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:548
+msgid "Disable bootstrap grid"
+msgstr "Отключить сетку bootstrap"
+
+#: Inc/Backend/class-form-fields.php:876
+msgid "Maximum value"
+msgstr "Максимальное значение"
+
+#: Inc/Backend/class-form-fields.php:866
+msgid "Minimum value"
+msgstr "Мин. значение"
+
+#: resources/assets/js/forms/containers/EmailEditorContainer.jsx:30
+msgid "You currently do not have any emails configured."
+msgstr "В настоящее время у вас не настроена электронная почта."
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:273
+msgid "Show: "
+msgstr "Показывать: "
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:30
+msgid "General settings"
+msgstr "Общие настройки"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:377
+#: resources/assets/js/forms/components/Misc/ConditionalThankYouMessage.jsx:98
+msgid "Start typing..."
+msgstr "Начните печатать..."
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:219
+#: resources/assets/js/forms/components/Misc/ConditionalThankYouMessage.jsx:61
+msgid "Show thank you message"
+msgstr "Показать сообщение с благодарностью"
+
+#: resources/assets/js/forms/containers/EmailEditorContainer.jsx:36
+msgid "Please select an email from the list"
+msgstr "Пожалуйста, выберите электронную почту из списка"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:84
+msgid "-- Please select a provider --"
+msgstr "-- Пожалуйста, выберите провайдера --"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:117
+msgid "+987654321"
+msgstr "+987654321"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:102
+msgid "+123456789"
+msgstr "+123456789"
+
+#: resources/assets/js/email-settings/components/LogPage.jsx:28
+msgid "#"
+msgstr "#"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:395
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:84
+msgid " field already exists"
+msgstr " поле уже существует"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:396
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:85
+msgid "You can add only one field of this type"
+msgstr "Вы можете добавить только одно поле такого типа"
+
+#: resources/assets/js/forms/components/Builder/BuilderFormField.jsx:297
+msgid "Wire Transfer"
+msgstr "Банковский перевод"
+
+#: resources/assets/js/forms/components/Slack/SlackActionEditor.jsx:74
+msgid "Where"
+msgstr "Где"
+
+#: resources/assets/js/email-settings/components/SettingsPage.jsx:90
+msgid "When an email fails to be delivered, a notification will be received at this email in the form of a non-delivery receipt or bounce message. If you do not set an email in this field then bounce emails may be lost."
+msgstr "Когда электронное письмо не удается доставить, на этот адрес будет получено уведомление в виде квитанции о недоставке или сообщения об отказе. Если вы не укажете email в этом поле, то сообщения об отказе могут быть потеряны."
+
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:31
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:397
+msgid "User Id"
+msgstr "ID пользователя"
+
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:78
+msgid "User role"
+msgstr "Роль пользователя"
+
+#: resources/assets/js/forms/components/Slack/SlackActionEditor.jsx:63
+msgid "Text"
+msgstr "Текст"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookItem.jsx:72
+msgid "Test"
+msgstr "Тест"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:27
+msgid "Switzerland"
+msgstr "Швейцария"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:63
+msgid "Sweden"
+msgstr "Швеция"
+
+#: resources/assets/js/email-settings/components/SettingsPage.jsx:77
+msgid "Failure email"
+msgstr "Письмо о сбое"
+
+#: resources/assets/js/email-settings/components/SettingsPage.jsx:52
+msgid "Select the method or service for sending out your form emails."
+msgstr "Выберите метод или службу для отправки электронных писем с формами."
+
+#: resources/assets/js/forms/containers/Sidebars/FormBuilderSidebar.jsx:73
+msgid "Drag & Drop fields to the builder"
+msgstr "Перетащите поля в конструктор"
+
+#: resources/assets/js/email-settings/components/LogPage.jsx:29
+msgid "Sender"
+msgstr "Отправитель"
+
+#: resources/assets/js/email-settings/components/EmailTestPage.jsx:82
+msgid "Send"
+msgstr "Отправить"
+
+#: resources/assets/js/email-settings/components/EmailTestPage.jsx:41
+msgid "Send a test email"
+msgstr "Отправить тестовое письмо"
+
+#: resources/assets/js/email-settings/components/Forms/Mailgun.jsx:29
+msgid "You can retrieve this from %shere%s."
+msgstr "Вы можете получить это из %sздесь%s."
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:439
+msgid "You already completed this form ... only one entry is allowed"
+msgstr "Вы уже заполнили эту форму... разрешена только одна запись"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:1077
+#: resources/assets/js/forms/components/FormSettings/NewsletterNEXT.jsx:274
+msgid "User consent field"
+msgstr "Поле согласия пользователя"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:1086
+#: resources/assets/js/forms/components/FormSettings/NewsletterNEXT.jsx:283
+msgid "User consent value"
+msgstr "Значение согласия пользователя"
+
+#: resources/assets/js/forms/components/AddableProduct/AddableProductChoice.jsx:73
+msgid "Use selected product"
+msgstr "Использовать выбранный товар"
+
+#: resources/assets/js/email-settings/components/EmailTestPage.jsx:74
+msgid "Use an email address that you can access to see if the emails are delivered."
+msgstr "Используйте адрес электронной почты, к которому вы можете получить доступ, чтобы узнать, доставлены ли электронные письма."
+
+#: resources/assets/js/email-settings/components/Misc/MostUsedOptions.jsx:101
+msgid "Use"
+msgstr "Использовать"
+
+#: resources/assets/js/email-settings/components/Forms/Mailgun.jsx:35
+msgid "US"
+msgstr "США"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:71
+msgid "Uruguay"
+msgstr "Уругвай"
+
+#: resources/assets/js/email-settings/components/LogPage.jsx:156
+#: resources/assets/js/forms/components/ConfirmationDialog/ConfirmationDialog.jsx:60
+msgid "Ok"
+msgstr "Ok"
+
+#: resources/assets/js/email-settings/containers/Header.jsx:41
+msgid "Log"
+msgstr "Журнал"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:264
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:160
+msgid "Do you want to update the payment method chooser?"
+msgstr "Вы хотите обновить выбор способа оплаты?"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:445
+msgid "If you select to invalidate by user id, the form will only be accessible to logged in users."
+msgstr "Если выбрать аннулирование по id пользователя, форма будет доступна только зарегистрированным пользователям."
+
+#: resources/assets/js/email-settings/components/LogPage.jsx:31
+msgid "Date"
+msgstr "Дата"
+
+#: resources/assets/js/forms/components/FormSettings/HubSpotIntegration.jsx:154
+msgid "HubSpot Actions"
+msgstr "Действия HubSpot"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:44
+msgid "If the connection requires you to authenticate, this option will provide the fields required to add your login credentials or API Key."
+msgstr "Если соединение требует аутентификации, эта опция предоставит поля, необходимые для добавления ваших учётных данных для входа или ключа API."
+
+#: resources/assets/js/forms/components/Builder/BuilderFormField.jsx:184
+msgid "Drag & Drop your files or Browse"
+msgstr "Перетащите и отпустите файлы или просмотрите"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:261
+#: resources/assets/js/forms/components/Misc/ConditionalThankYouMessage.jsx:72
+msgid "Scroll to thank you message"
+msgstr "Прокрутите до сообщения с благодарностью"
+
+#: resources/assets/js/forms/components/Slack/SlackActionEditor.jsx:54
+msgid "Message type (text, block)"
+msgstr "Тип сообщения (текст, блок)"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:425
+msgid "Message displayed for the users that already submitted the form"
+msgstr "Сообщение отображается для пользователей, которые уже отправили форму"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:130
+msgid "Message body"
+msgstr "Тело сообщения"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:127
+msgid "Unqualified"
+msgstr "Неквалифицированный"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:70
+msgid "United States"
+msgstr "Соединенные Штаты"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:39
+msgid "United Kingdom"
+msgstr "Великобритания"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:409
+msgid "Unique field"
+msgstr "Уникальное поле"
+
+#: resources/assets/js/email-settings/components/LogPage.jsx:30
+msgid "Type"
+msgstr "Тип"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:69
+msgid "Trinidad & Tobago"
+msgstr "Тринидад и Тобаго"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:165
+msgid "Duplicate SMS"
+msgstr "Дублировать SMS"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:81
+msgid "Custom SMTP settings"
+msgstr "Пользовательские настройки SMTP"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:174
+msgid "Customer"
+msgstr "Клиент"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:32
+msgid "SMTP server"
+msgstr "SMTP-сервер"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:33
+msgid "SMTP port"
+msgstr "SMTP-порт"
+
+#: resources/assets/js/email-settings/components/Misc/MostUsedOptions.jsx:69
+msgid "Most used options"
+msgstr "Наиболее используемые настройки"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:40
+msgid "Set the encryption method used to secure your connection to the server."
+msgstr "Установите метод шифрования, используемый для защиты вашего соединения с сервером."
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:32
+msgid "The server that will handle your email sending functionality."
+msgstr "Сервер, с которого будет осуществляться отправка электронной почты."
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:33
+msgid "The port that will be used to establish the connection to the server."
+msgstr "Порт, который будет использоваться для установления соединения с сервером."
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:42
+msgid "Disable AutoTLS"
+msgstr "Отключить AutoTLS"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:42
+msgid "A TLS encryption is automatically used if the server supports it, which is recommended. If your server does not support this you can disable this default encryption from this option."
+msgstr "Шифрование TLS используется автоматически, если сервер поддерживает его, что рекомендуется. Если ваш сервер его не поддерживает, вы можете отключить это шифрование по умолчанию с помощью данной опции."
+
+#: resources/assets/js/forms/components/FormSettings/GoogleSheets.jsx:102
+msgid "Something went wrong, please authenticate with Google."
+msgstr "Что-то пошло не так, пожалуйста, авторизуйтесь в Google."
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:44
+msgid "Authenticate"
+msgstr "Аутентификация"
+
+#: resources/assets/js/email-settings/components/Forms/Mailgun.jsx:22
+msgid "The Private API key used for the connection to this service. You can retrieve this from your %sMailgun account%s."
+msgstr "Личный ключ API, используемый для подключения к этой службе. Вы можете получить его в своей учётной записи %sMailgun%s."
+
+#: resources/assets/js/email-settings/components/Misc/MostUsedOptions.jsx:97
+msgid "Secure:"
+msgstr "Безопасность:"
+
+#: resources/assets/js/email-settings/components/Forms/SMTPCom.jsx:22
+msgid "The API key used for the connection to this service. You can retrieve this from your %sSMTP.com account%s."
+msgstr "Для подключения к этой службе используется API ключ. Вы можете получить его в своей учётной записи %sSMTP.com%s."
+
+#: resources/assets/js/email-settings/components/Forms/Sendinblue.jsx:21
+msgid "The API key used for the connection to this service. You can retrieve this from your %sSendinblue account%s"
+msgstr "Для подключения к этой службе используется API ключ. Вы можете получить его в своей учётной записи %sSendinblue%s"
+
+#: resources/assets/js/email-settings/components/Forms/Postmark.jsx:21
+msgid "The API key used for the connection to this service. You can retrieve this from your %sPostmark account%s"
+msgstr "Для подключения к этой службе используется API ключ. Вы можете получить его в своей учётной записи %sPostmark%s"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:46
+msgid "The account used for the connection."
+msgstr "Учётная запись, используемая для подключения."
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:1072
+#: resources/assets/js/forms/components/FormSettings/NewsletterNEXT.jsx:269
+msgid "Subscribe users to your newsletter only if a field has a certain value"
+msgstr "Подписывайте пользователей на вашу рассылку, только если поле имеет определенное значение"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:366
+msgid "Prevent multiple entries from same user"
+msgstr "Запрет множественных записей от одного и того же пользователя"
+
+#: resources/assets/js/email-settings/components/Misc/PortStatus.jsx:29
+msgid "Ports used for email sending"
+msgstr "Порты, используемые для отправки электронной почты"
+
+#: resources/assets/js/email-settings/components/Misc/MostUsedOptions.jsx:94
+msgid "Port:"
+msgstr "Порт:"
+
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:30
+msgid "Nick name"
+msgstr "Никнейм"
+
+#: resources/assets/js/email-settings/components/Misc/MostUsedOptions.jsx:91
+msgid "Host:"
+msgstr "Сервер:"
+
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:62
+msgid "Enable user registration"
+msgstr "Включить регистрацию пользователей"
+
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:29
+msgid "Display name"
+msgstr "Отображаемое имя"
+
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:100
+msgid "Custom fields"
+msgstr "Пользовательские поля"
+
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:133
+msgid "Custom field label"
+msgstr "Метка пользовательского поля"
+
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:121
+msgid "Custom field key"
+msgstr "Ключ пользовательского поля"
+
+#: resources/assets/js/email-settings/components/Misc/MostUsedOptions.jsx:79
+#: resources/assets/js/forms/components/Builder/BuilderFormField.jsx:72
+msgid "-- Select an option --"
+msgstr "-- Выберите опцию --"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:210
+#: resources/assets/js/forms/components/FormSettings/NewsletterNEXT.jsx:198
+msgid "No api keys provided. Please check your settings."
+msgstr "Ключи api не предоставлены. Пожалуйста, проверьте свои настройки."
+
+#: resources/assets/js/email-settings/components/Forms/SMTPCom.jsx:30
+msgid "The sender name can be found in your %saccount%s."
+msgstr "Имя отправителя можно найти в вашей %sучетной записи%s."
+
+#: resources/assets/js/email-settings/components/Forms/SMTPCom.jsx:68
+msgid "SMTP.com settings"
+msgstr "Настройки SMTP.com"
+
+#: resources/assets/js/email-settings/components/SettingsPage.jsx:59
+msgid "Enable mail log"
+msgstr "Включить журнал почты"
+
+#: resources/assets/js/email-settings/components/SettingsPage.jsx:70
+msgid "Record each attempt to send out an email notification, this will help you resolve any potential errors with the email sending functionality or provide a confirmation that an email has been sent."
+msgstr "Записывайте каждую попытку отправки уведомления по электронной почте, это поможет вам устранить возможные ошибки в работе службы отправки электронной почты или получить подтверждение того, что письмо было отправлено."
+
+#: resources/assets/js/email-settings/components/Forms/Sendinblue.jsx:58
+msgid "Send in blue settings"
+msgstr "Настройки Send in blue"
+
+#: resources/assets/js/email-settings/components/Forms/Mailgun.jsx:72
+msgid "Mailgun settings"
+msgstr "Настройки Mailgun"
+
+#: resources/assets/js/email-settings/components/Forms/Mailgun.jsx:27
+msgid "Domain name"
+msgstr "Доменное имя"
+
+#: resources/assets/js/email-settings/components/Forms/Postmark.jsx:58
+msgid "Postmark settings"
+msgstr "Настройки Postmark"
+
+#: resources/assets/js/email-settings/components/Forms/Postmark.jsx:19
+msgid "API server key"
+msgstr "Ключ API-сервера"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:38
+msgid "TLS"
+msgstr "TLS"
+
+#: resources/assets/js/forms/containers/FormSettings.jsx:91
+msgid "There is nothing here for you"
+msgstr "Здесь нет ничего для тебя"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:1028
+msgid "There are no lists created in your Sendinblue account. Please make sure you create at least one before configuring this integration."
+msgstr "В вашей учётной записи Sendinblue нет созданных списков. Пожалуйста, убедитесь, что вы создали хотя бы один, прежде чем настраивать эту интеграцию."
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:691
+msgid "There are no lists created in your Sendfox account. Please make sure you create at least one before configuring this integration."
+msgstr "В вашей учётной записи Sendfox нет созданных списков. Пожалуйста, убедитесь, что вы создали хотя бы один, прежде чем настраивать эту интеграцию."
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:752
+msgid "There are no lists created in your Revue account. Please make sure you create at least one before configuring this integration."
+msgstr "В вашей учётной записи Revue нет созданных списков. Пожалуйста, убедитесь, что вы создали хотя бы один, прежде чем настраивать эту интеграцию."
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:813
+msgid "There are no lists created in your Moosend account. Please make sure you create at least one before configuring this integration."
+msgstr "В вашей учётной записи Moosend нет созданных списков. Пожалуйста, убедитесь, что вы создали хотя бы один, прежде чем настраивать эту интеграцию."
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:874
+msgid "There are no lists created in your Get Response account. Please make sure you create at least one before configuring this integration."
+msgstr "В вашей учётной записи Get Response нет созданных списков. Пожалуйста, убедитесь, что вы создали хотя бы один, прежде чем настраивать эту интеграцию."
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:950
+msgid "There are no lists created in your Campaign Monitor account. Please make sure you create at least one before configuring this integration."
+msgstr "В вашей учётной записи Campaign Monitor нет созданных списков. Пожалуйста, убедитесь, что вы создали хотя бы один, прежде чем настраивать эту интеграцию."
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:47
+msgid "The password of your account."
+msgstr "Пароль вашей учётной записи."
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:429
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:484
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:560
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:920
+msgid "Tag selector field"
+msgstr "Поле выбора метки"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:39
+msgid "STARTTLS"
+msgstr "STARTTLS"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:37
+msgid "SSL"
+msgstr "SSL"
+
+#: resources/assets/js/forms/components/FormSettings/GoogleSheets.jsx:136
+msgid "Spreadsheet"
+msgstr "Электронная таблица"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:36
+msgid "Spain"
+msgstr "Испания"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:84
+msgid "Something went wrong..."
+msgstr "Что-то пошло не так..."
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:65
+msgid "Slovenia"
+msgstr "Словения"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:66
+msgid "Slovakia"
+msgstr "Словакия"
+
+#: resources/assets/js/forms/components/FormSettings/SlackContainer.jsx:14
+msgid "Slack settings"
+msgstr "Настройки Slack"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:64
+msgid "Singapore"
+msgstr "Сингапур"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/AdditionalFormFields.jsx:61
+msgid "Add form field"
+msgstr "Добавить поле формы"
+
+#: resources/assets/js/forms/components/FormSettings/HubSpotIntegration.jsx:148
+msgid "Add action"
+msgstr "Добавить действие"
+
+#: resources/assets/js/forms/components/Slack/Slack.jsx:47
+msgid "Add a name for your Slack action"
+msgstr "Добавьте имя для вашего действия в Slack"
+
+#: resources/assets/js/forms/components/FormSettings/HubSpotIntegration.jsx:124
+#: resources/assets/js/forms/components/Slack/SlackActionEditor.jsx:37
+msgid "Action name"
+msgstr "Название действия"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:201
+msgid "Additional Form Fields"
+msgstr "Дополнительные поля формы"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:111
+msgid "After form process"
+msgstr "После обработки формы"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditorContainer.jsx:33
+msgid "Add your first SMS!"
+msgstr "Добавьте свое первое SMS!"
+
+#: resources/assets/js/forms/components/Builder/BuilderFormField.jsx:313
+msgid "Add your first product"
+msgstr "Добавьте свой первый товар"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:145
+msgid "Add Pay Now button"
+msgstr "Добавить кнопку \"Оплатить сейчас\""
+
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerConditional.jsx:20
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerSelection.jsx:98
+msgid "Assign owner"
+msgstr "Назначить владельца"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:67
+msgid "Any"
+msgstr "Любой"
+
+#: resources/assets/js/email-settings/components/EmailTestPage.jsx:81
+msgid "√ Email sent"
+msgstr "√ Электронное письмо отправлено"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:21
+msgid "Austria"
+msgstr "Австрия"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:22
+msgid "Australia"
+msgstr "Австралия"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:130
+msgid "Attempted to Contact"
+msgstr "Попытка связаться"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:23
+msgid "Belgium"
+msgstr "Бельгия"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:108
+msgid "Before form process"
+msgstr "Перед процессом формирования"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:136
+msgid "Bad Timing"
+msgstr "Не вовремя"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:25
+msgid "Brasil"
+msgstr "Бразилия"
+
+#: resources/assets/js/forms/components/Slack/SlackActionEditor.jsx:66
+msgid "Block"
+msgstr "Блокировать"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:24
+msgid "Bulgaria"
+msgstr "Болгария"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:28
+msgid "Côte d’Ivoire"
+msgstr "Берег Слоновой Кости"
+
+#: resources/assets/js/forms/components/Builder/BuilderFormField.jsx:347
+msgid "Card Number"
+msgstr "Номер карты"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:170
+msgid "Card name"
+msgstr "Название карты"
+
+#: resources/assets/js/forms/components/AddableImage/AddableImageChoice.jsx:92
+msgid "Caption"
+msgstr "Подпись"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:133
+msgid "Connected"
+msgstr "Подключено"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:29
+msgid "Croatia"
+msgstr "Хорватия"
+
+#: resources/assets/js/forms/components/Sidebar/SidebarFormFieldEditItem.jsx:93
+msgid "Date operations"
+msgstr "Операции по датам"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:30
+msgid "Cyprus"
+msgstr "Кипр"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:71
+msgid "DELETE"
+msgstr "УДАЛИТЬ"
+
+#: resources/assets/js/forms/components/FormSettings/HubSpotIntegration.jsx:143
+msgid "Delete action"
+msgstr "Удалить действие"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:33
+msgid "Denmark"
+msgstr "Дания"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:360
+msgid "Enable Campaign Monitor"
+msgstr "Включить монитор кампании"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:255
+msgid "Enable Active Campaign"
+msgstr "Включить активную кампанию"
+
+#: resources/assets/js/forms/components/FormSettings/NewsletterNEXT.jsx:214
+msgid "Enable "
+msgstr "Включить "
+
+#: resources/assets/js/email-settings/containers/Header.jsx:35
+msgid "Email test"
+msgstr "Тест электронной почты"
+
+#: resources/assets/js/forms/components/FormSettings/HubSpotIntegration.jsx:138
+msgid "Edit action"
+msgstr "Редактировать действие"
+
+#: resources/assets/js/email-settings/components/Forms/Mailgun.jsx:36
+msgid "EU"
+msgstr "ЕС"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:35
+msgid "Estonia"
+msgstr "Эстония"
+
+#: resources/assets/js/email-settings/components/LogPage.jsx:145
+msgid "Error Info"
+msgstr "Сведения об ошибке"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:177
+msgid "Evangelist"
+msgstr "Евангелист"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:91
+msgid "FORM"
+msgstr "ФОРМА"
+
+#: resources/assets/js/forms/components/FormSettings/HubSpotIntegration.jsx:21
+msgid "form"
+msgstr "форма"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:445
+#: resources/assets/js/forms/components/FormSettings/NewsletterNEXT.jsx:238
+msgid "Form"
+msgstr "Форма"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:37
+msgid "Finland"
+msgstr "Финляндия"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:38
+msgid "France"
+msgstr "Франция"
+
+#: resources/assets/js/forms/components/Misc/AppBarSaveButton.jsx:39
+msgid "Found fields with the same \"Name\" property."
+msgstr "Найдены поля с одинаковым свойством \"Имя\"."
+
+#: resources/assets/js/forms/components/Misc/AppBarSaveButton.jsx:48
+msgid "Found fields with the same \"Id\" property."
+msgstr "Найдены поля с одинаковым свойством \"Id\"."
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:59
+msgid "GET"
+msgstr "ПОЛУЧИТЬ"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:32
+msgid "Germany"
+msgstr "Германия"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:113
+msgid "From number or short number"
+msgstr "С номера или короткого номера"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:41
+msgid "Guatemala"
+msgstr "Гватемала"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:40
+msgid "Greece"
+msgstr "Греция"
+
+#: resources/assets/js/forms/components/FormSettings/GoogleSheets.jsx:96
+msgid "Google sheets settings"
+msgstr "Настройки Google sheets"
+
+#: resources/assets/js/email-settings/components/LogPage.jsx:65
+msgid "Help"
+msgstr "Помощь"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:43
+msgid "Hungary"
+msgstr "Венгрия"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:42
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:44
+msgid "Indonesia"
+msgstr "Индонезия"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:46
+msgid "India"
+msgstr "Индия"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:121
+msgid "In Progress"
+msgstr "В процессе"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:88
+msgid "JSON"
+msgstr "JSON"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:153
+msgid "John Doe..."
+msgstr "Джон Доу..."
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:47
+msgid "Italy"
+msgstr "Италия"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:257
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:153
+msgid "It seems that you have multiple payment methods in your form. In order for this functionality to work correctly you should add a payment method chooser field. Do you want us to do it for you?"
+msgstr "Похоже, что в вашей форме используется несколько способов оплаты. Для того чтобы эта функциональность работала правильно, вам необходимо добавить поле выбора способа оплаты. Хотите, чтобы мы сделали это за вас?"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEntityCreator.jsx:49
+msgid "Key"
+msgstr "Ключ"
+
+#: resources/assets/js/forms/components/FooterBar.jsx:51
+msgid "Kali Forms logo"
+msgstr "Логотип Kali Forms"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:99
+msgid "Trigger event"
+msgstr "Событие триггера"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:479
+msgid "Do you want to add certain tags to your subscribers? You can create one of the following form fields : Select, Choices, Radio, Checkbox and populate options using the Presets button."
+msgstr "Вы хотите добавить определенные метки своим подписчикам? Вы можете создать одно из следующих полей формы: выбор, варианты, радио, флажок и заполнить настройки с помощью кнопки \"Предустановки\"."
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:160
+msgid "Save submitter IP Address"
+msgstr "Сохранить IP-адрес отправителя"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:424
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:555
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:915
+msgid "Do you want to add certain tags to your subscribers? You can create one of the following form fields : Select, Choices, Radio, Checkbox and populate options using the Presets button. If a tag is not found, a new one will be created on form submit."
+msgstr "Вы хотите добавить определенные метки своим подписчикам? Вы можете создать одно из следующих полей формы: выбор, варианты, радио, флажок и заполнить настройки с помощью кнопки \"Предустановки\". Если метка не найдется, при отправке формы будет создана новая."
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:171
+msgid "Remove SMS"
+msgstr "Удалить SMS"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/AdditionalFormFields.jsx:68
+msgid "Remove form field"
+msgstr "Удалить поле формы"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:98
+msgid "To number"
+msgstr "Пронумеровать"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:159
+msgid "Subscriber"
+msgstr "Подписчик"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditorContainer.jsx:25
+msgid "Sms notification"
+msgstr "Смс уведомление"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:630
+msgid "Please configure MailPoet lists before integrating it with Kali Forms"
+msgstr "Пожалуйста, настройте списки MailPoet перед его интеграцией с Kali Forms"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:404
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:459
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:514
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:590
+#: resources/assets/js/forms/components/FormSettings/NewsletterNEXT.jsx:258
+msgid "No lists associated with your account. Please configure your newsletter settings before integrating it with Kali Forms"
+msgstr "Нет списков, связанных с вашей учётной записью. Пожалуйста, настройте параметры вашей рассылки, прежде чем интегрировать ее в Kali Forms"
+
+#: resources/assets/js/email-settings/components/EmailTestPage.jsx:63
+msgid "Send to"
+msgstr "Отправить на"
+
+#: resources/assets/js/email-settings/components/EmailTestPage.jsx:49
+msgid "Send from"
+msgstr "Отправить от"
+
+#: resources/assets/js/email-settings/components/SettingsPage.jsx:45
+msgid "Send emails using"
+msgstr "Отправляйте электронные письма с помощью"
+
+#: resources/assets/js/email-settings/components/LogPage.jsx:128
+msgid "See your email log"
+msgstr "Просмотрите журнал электронной почты"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:291
+msgid "Entries view page (page with [kaliform-submission] shortcode)"
+msgstr "Страница просмотра записей (страница с шорткодом [kaliform-submission])"
+
+#: resources/assets/js/forms/components/AddableProduct/AddableProductChoice.jsx:72
+msgid "Select product"
+msgstr "Выбрать товар"
+
+#: resources/assets/js/forms/components/Slack/Slack.jsx:65
+msgid "Slack actions"
+msgstr "Действия в Slack"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:67
+msgid "Senegal"
+msgstr "Сенегал"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerSelection.jsx:83
+msgid "Sets the owner of the contact in your HubSpot contact list"
+msgstr "Устанавливает владельца контакта в вашем списке контактов HubSpot"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:489
+msgid "Redirect timeout (in seconds)"
+msgstr "Тайм-аут перенаправления (в секундах)"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:82
+msgid "Publishable key (sandbox)"
+msgstr "Ключ для публикации (песочница)"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:110
+msgid "Publishable key (LIVE)"
+msgstr "Ключ для публикации (реальный)"
+
+#: resources/assets/js/email-settings/components/Misc/PortStatus.jsx:37
+msgid "Port "
+msgstr "Порт "
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:60
+msgid "Poland"
+msgstr "Польша"
+
+#: resources/assets/js/email-settings/components/Forms/Mailgun.jsx:20
+#: resources/assets/js/email-settings/components/Forms/Sendinblue.jsx:19
+#: resources/assets/js/email-settings/components/Forms/SMTPCom.jsx:20
+msgid "API key"
+msgstr "Ключ API"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:187
+msgid "Complete"
+msgstr "Выполнено"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:51
+msgid "Latvia"
+msgstr "Латвия"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:49
+msgid "Lithuania"
+msgstr "Литва"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:390
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:500
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:576
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:616
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:677
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:738
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:799
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:860
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:936
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:998
+#: resources/assets/js/forms/components/FormSettings/NewsletterNEXT.jsx:235
+msgid "List"
+msgstr "Список"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:50
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:52
+msgid "Malta"
+msgstr "Мальта"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:50
+msgid "Method"
+msgstr "Метод"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:53
+msgid "Mexico"
+msgstr "Мексика"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:55
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:115
+msgid "New"
+msgstr "Новый"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerSelection.jsx:74
+msgid "None"
+msgstr "Ничего"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:56
+msgid "Norway"
+msgstr "Норвегия"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:58
+msgid "Peru"
+msgstr "Перу"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:59
+msgid "Philippines"
+msgstr "Филиппины"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:61
+msgid "Portugal"
+msgstr "Португалия"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:178
+msgid "Postal code"
+msgstr "Почтовый индекс"
+
+#: resources/assets/js/email-settings/components/Forms/Mailgun.jsx:34
+msgid "Region"
+msgstr "Регион"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:112
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:156
+msgid "Select an option"
+msgstr "Выберите вариант"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:68
+msgid "Thailand"
+msgstr "Тайланд"
+
+#: resources/assets/js/forms/components/FormSettings/WebHooksContainer.jsx:13
+#: resources/assets/js/forms/components/WebHooks/WebHookList.jsx:9
+msgid "Webhooks"
+msgstr "Вебзацепы"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:318
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:182
+msgid "Select payment method"
+msgstr "Выберите способ оплаты"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerConditional.jsx:29
+msgid "Select owner"
+msgstr "Выберите владельца"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerSelection.jsx:77
+msgid "Select Owner"
+msgstr "Выберите владельца"
+
+#: resources/assets/js/forms/components/Slack/SlackActionEditor.jsx:100
+msgid "Select fields to send through the block message"
+msgstr "Выберите поля для отправки через сообщение блокировки"
+
+#: resources/assets/js/forms/components/FormSettings/GoogleSheets.jsx:153
+msgid "Select a spreadsheet"
+msgstr "Выберите электронную таблицу"
+
+#: resources/assets/js/forms/components/FormSettings/GoogleSheets.jsx:185
+msgid "Select a sheet"
+msgstr "Выберите лист"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:95
+msgid "Secret key (sandbox)"
+msgstr "Секретный ключ (песочница)"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:123
+msgid "Secret key (LIVE)"
+msgstr "Секретный ключ (LIVE)"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:168
+msgid "Sales Qualified Lead"
+msgstr "Квалифицированный лидер продаж"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:467
+msgid "Reset form after submit"
+msgstr "Сбросить форму после отправки"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:142
+msgid "Request Headers"
+msgstr "Заголовки запроса"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:136
+msgid "Request Body"
+msgstr "Тело запроса"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:75
+msgid "Provider"
+msgstr "Провайдер"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:256
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:263
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:152
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:159
+msgid "Payment Methods Issue"
+msgstr "Проблема способов оплаты"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:148
+msgid "Should send webhook"
+msgstr "Следует отправить веб-крючок"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:152
+msgid "Should send sms"
+msgstr "Должен отправлять смс"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:61
+msgid "Process if"
+msgstr "Обрабатывать, если"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:62
+msgid "POST"
+msgstr "ЗАПИСЬ"
+
+#: resources/assets/js/forms/components/FormSettings/GoogleSheets.jsx:234
+msgid "Please make sure the spreadsheet has the table headers created"
+msgstr "Убедитесь, что в электронной таблице созданы заголовки таблиц"
+
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:68
+msgid "PATCH"
+msgstr "ПАТЧ"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:176
+msgid "Pagebreak progress complete label"
+msgstr "Ярлык завершения процесса переноса страниц"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:188
+msgid "Owner"
+msgstr "Владелец"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:171
+msgid "Opportunity"
+msgstr "Возможность"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:124
+msgid "Open Deal"
+msgstr "Открытое соглашение"
+
+#: resources/assets/js/email-settings/components/Misc/PortStatus.jsx:39
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:118
+msgid "Open"
+msgstr "Открыть"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:206
+#: resources/assets/js/forms/components/FormSettings/NewsletterNEXT.jsx:194
+msgid "Newsletter settings"
+msgstr "Настройки новостной рассылки"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:67
+msgid "Name of your SMS notification..."
+msgstr "Название вашего SMS-уведомления..."
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:77
+msgid "Name of the HubSpot action"
+msgstr "Название действия HubSpot"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:95
+msgid "Name of the contact form that will be created in your HubSpot account"
+msgstr "Название контактной формы, которая будет создана в вашей учётной записи HubSpot"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:165
+msgid "Marketing Qualified Lead"
+msgstr "Квалифицированный специалист по маркетингу"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:198
+msgid "Map Form Fields"
+msgstr "Поля формы для карты"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:147
+msgid "Life cycle stage"
+msgstr "Стадия жизненного цикла"
+
+#: resources/assets/js/forms/components/FormSettings/HubSpotIntegration.jsx:127
+msgid "Life cycle"
+msgstr "Жизненный цикл"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:183
+msgid "Life cycle stage value of the contact"
+msgstr "Значение стадии жизненного цикла контакта"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:315
+msgid "Enable Sendinblue"
+msgstr "Включить Sendinblue"
+
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:89
+msgid "If any of the fields"
+msgstr "Если любое из полей"
+
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:92
+msgid "If all fields"
+msgstr "Если все поля"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:85
+msgid "HubSpot form name"
+msgstr "Название формы HubSpot"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:67
+msgid "HubSpot action name"
+msgstr "Название действия HubSpot"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:117
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:60
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:75
+msgid "HubSpot Action"
+msgstr "Действия HubSpot"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:300
+msgid "Enable Sendfox"
+msgstr "Включить Sendfox"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:375
+msgid "Enable Revue"
+msgstr "Включить Revue"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:330
+msgid "Enable Moosend"
+msgstr "Включить Moosend"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:285
+msgid "Enable MailPoet"
+msgstr "Включить MailPoet"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:270
+msgid "Enable MailerLite"
+msgstr "Включить MailerLite"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:225
+msgid "Enable MailChimp"
+msgstr "Включить MailChimp"
+
+#: resources/assets/js/forms/components/FormSettings/GoogleSheets.jsx:125
+msgid "Enable Google Sheets Integration"
+msgstr "Включить интеграцию с Google Sheets"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:345
+msgid "Enable GetResponse"
+msgstr "Включить GetResponse"
+
+#: resources/assets/js/forms/components/FormSettings/Newsletter.jsx:240
+msgid "Enable ConvertKit"
+msgstr "Включить ConvertKit"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:307
+msgid "-- Select a page --"
+msgstr "-- Выберите страницу --"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:65
+msgid ", or . or - or whatyouneed"
+msgstr ", или . или - или то, что вам нужно"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:152
+msgid "Account country"
+msgstr "Страна учётной записи"
+
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:174
+msgid "Country (country code)"
+msgstr "Страна (код страны)"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerSelection.jsx:65
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerSelection.jsx:90
+msgid "Contact owner"
+msgstr "Связаться с владельцем"
+
+#: Inc/class-kaliforms.php:225
+msgid "Kali Forms Submissions needs update"
+msgstr "Kali Forms Submissions требуется обновление"
+
+#: Inc/Backend/class-elementor-kaliforms-widget.php:160
+msgid "Placeholder values"
+msgstr "Значения заполнителя"
+
+#: Inc/class-kaliforms.php:227
+msgid "Please make sure you are using the latest version of the Kali Forms Submissions plugin."
+msgstr "Убедитесь, что вы используете последнюю версию плагина Kali Forms Submissions."
+
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:532
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:569
+msgid "You need to query data for certain forms. It can't be null."
+msgstr "Вам необходимо запросить данные для определенных форм. Это не может быть ноль."
+
+#: Inc/Backend/Rest/class-forms-rest-controller.php:417
+msgid "What plugins we have installed."
+msgstr "Какие плагины мы установили."
+
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:761
+msgid "Publish date"
+msgstr "Дата публикации"
+
+#: resources/assets/js/form-entries/Exporter/StartExport.js:37
+#: resources/assets/js/form-entries/FormEntry/FormEntry.js:100
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotSectionHeader.jsx:15
+msgid "Go back"
+msgstr "Вернуться назад"
+
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:228
+msgid "Google Sheets plugin not installed"
+msgstr "Плагин Google Sheets не установлен"
+
+#: Inc/Backend/Rest/class-forms-rest-controller.php:413
+msgid "Immutable data, that is needed for form building"
+msgstr "Неизменяемые данные, необходимые для построения формы"
+
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:787
+#: Inc/Backend/Rest/class-forms-rest-controller.php:391
+#: Inc/Frontend/Rest/class-forms-processor-rest-controller.php:103
+msgid "Unique identifier for the object."
+msgstr "Уникальный идентификатор объекта."
+
+#: Inc/Backend/Rest/class-forms-rest-controller.php:409
+msgid "Form notifications, that include emails and sms."
+msgstr "Форма уведомлений, которые включают электронные письма и смс."
+
+#: Inc/Backend/Rest/class-forms-rest-controller.php:397
+msgid "Fields."
+msgstr "Поля."
+
+#: Inc/Backend/Rest/class-forms-rest-controller.php:405
+msgid "Form options."
+msgstr "Настройки формы."
+
+#: Inc/Backend/Rest/class-forms-rest-controller.php:401
+msgid "Grid."
+msgstr "Сетка."
+
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:551
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:590
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:640
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:673
+#: Inc/Backend/Rest/class-forms-rest-controller.php:216
+msgid "The page number requested is larger than the number of pages available."
+msgstr "Запрошенный номер страницы превышает количество доступных страниц."
+
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:267
+#: Inc/Backend/Rest/class-forms-rest-controller.php:119
+msgid "You cannot view the post resource."
+msgstr "Вы не можете посмотреть источник записи."
+
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:282
+#: Inc/Backend/Rest/class-forms-rest-controller.php:134
+msgid "You cannot edit the post resource."
+msgstr "Вы не можете редактировать источник записи."
+
+#: Inc/Backend/class-elementor-kaliforms-widget.php:205
+msgid "Form may not look the same in the Elementor preview as on the actual page"
+msgstr "Форма может выглядеть по-разному в предварительном просмотре Elementor и на реальной странице"
+
+#: Inc/Backend/class-elementor-kaliforms-widget.php:142
+msgid "Form id"
+msgstr "Id формы"
+
+#: Inc/Backend/class-elementor-kaliforms-widget.php:200
+msgid "Please select a form from the dropdown"
+msgstr "Пожалуйста, выберите форму из выпадающего списка"
+
+#: Inc/Backend/class-elementor-kaliforms-widget.php:182
+msgid "Select a form"
+msgstr "Выберите форму"
+
+#: Inc/Backend/class-form-fields.php:1057
+msgid "GDPR"
+msgstr "GDPR"
+
+#: Inc/Backend/Views/class-email-settings-page.php:107
+msgid "Postmark"
+msgstr "Почтовая марка"
+
+#: Inc/Backend/class-form-fields.php:1063
+msgid "Terms and Conditions"
+msgstr "Правила и условия"
+
+#: Inc/Frontend/class-submission-shortcode.php:237
+msgid "Submission date"
+msgstr "Дата представления"
+
+#: Inc/Backend/class-form-fields.php:551
+msgid "Max size of all files in list (e.g. %s)"
+msgstr "Макс. размер всех файлов в списке (например, %s)"
+
+#: Inc/Backend/class-form-fields.php:539
+msgid "Min file size (e.g. %s)"
+msgstr "Мин. размер файла (например, %s)"
+
+#: Inc/Backend/Posts/class-submitted.php:489
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:755
+msgid "Ip address"
+msgstr "Ip адрес"
+
+#: Inc/Backend/Posts/class-submitted.php:385
+msgid "N\\A"
+msgstr "Нет данных"
+
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:51
+#: resources/assets/js/forms/containers/Sidebars/FormSettingsNavigation.js:58
+msgid "User registration"
+msgstr "Регистрация пользователя"
+
+#: Inc/Backend/Posts/class-submitted.php:311
+msgid "Form has no entries"
+msgstr "Форма не имеет записей"
+
+#: Inc/Backend/Posts/class-submitted.php:331
+msgid "Submissions"
+msgstr "Представления"
+
+#: Inc/Backend/Views/class-email-settings-page.php:83
+msgid "Default WP Mailer"
+msgstr "WP Mailer по умолчанию"
+
+#: Inc/Backend/class-form-fields.php:1095
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:366
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:259
+msgid "Wire transfer"
+msgstr "Банковский перевод"
+
+#: Inc/class-kaliforms.php:211
+msgid "The plugin was deactivated because this version is not supported. No worries, everything is still working, but please make sure you update our plugins to the latest versions. You can do so by using the automatic plugin updater functionality, or by downloading the newest plugin file from our website."
+msgstr "Плагин был деактивирован, потому что эта версия больше не поддерживается. Не беспокойтесь, все по-прежнему работает, но, пожалуйста, убедитесь, что вы обновили наши плагины до последних версий. Вы можете сделать это с помощью функции автоматического обновления плагинов или скачав самый новый файл плагина с нашего сайта."
+
+#: Inc/Frontend/class-submission-shortcode.php:149
+#: Inc/Frontend/class-submission-shortcode.php:231
+#: Inc/Utils/class-submission-actions.php:55
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#: Inc/Backend/Posts/class-submitted.php:97
+#: Inc/Backend/Posts/class-submitted.php:98
+#: resources/assets/js/form-entries/Context/UiContext.js:9
+msgid "Form entries"
+msgstr "Записи форм"
+
+#: Inc/Backend/Posts/class-submitted.php:218
+msgid "Form Entries"
+msgstr "Записи форм"
+
+#: Inc/Backend/Views/class-email-settings-page.php:91
+msgid "Custom SMTP"
+msgstr "Произвольный SMTP"
+
+#: Inc/Utils/EmailUtilities/class-mailgun-helper.php:58
+#: Inc/Utils/EmailUtilities/class-postmark-helper.php:40
+#: Inc/Utils/EmailUtilities/class-sendinblue-helper.php:39
+#: Inc/Utils/EmailUtilities/class-smtpcom-helper.php:38
+msgid "No Api Key configured"
+msgstr "Ключ Api не настроен"
+
+#: Inc/Backend/Views/class-email-settings-page.php:95
+msgid "SMTP.com"
+msgstr "SMTP.com"
+
+#: Inc/Frontend/class-submission-shortcode.php:154
+msgid "Denied!"
+msgstr "Отказано"
+
+#: Inc/class-payments-simple.php:49
+msgid "Upgrade to Pro version for a payment log"
+msgstr "Обновите до версии Pro для ведения журнала платежей"
+
+#: Inc/Backend/class-plugin-health-checks.php:285
+msgid "Something went wrong. Check email log."
+msgstr "Что-то пошло не так. Проверьте журнал электронной почты."
+
+#: Inc/Backend/Views/class-email-settings-page.php:87
+msgid "PHP Mailer"
+msgstr "PHP Mailer"
+
+#: Inc/Backend/class-form-fields.php:1083
+msgid "Multiple products"
+msgstr "Несколько товаров"
+
+#: Inc/Backend/class-form-fields.php:1089
+msgid "Total"
+msgstr "Итого"
+
+#: Inc/Backend/Views/class-email-settings-page.php:99
+msgid "Send in blue"
+msgstr "Send in blue"
+
+#: Inc/Backend/Posts/class-submitted.php:310
+msgid "See entries (%s)"
+msgstr "См. записи (%s)"
+
+#: Inc/Utils/class-submission-action-helper.php:167
+msgid "Submission"
+msgstr "Отправка"
+
+#: Inc/Backend/class-form-fields.php:1101
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:360
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:253
+msgid "Stripe"
+msgstr "Полоса"
+
+#: Inc/Utils/EmailProviders/class-smtp.php:54
+msgid "No port configured in settings"
+msgstr "В настройках не указан порт"
+
+#: Inc/Utils/EmailProviders/class-smtp.php:51
+msgid "No host configured in settings"
+msgstr "В настройках не указан хост"
+
+#: Inc/Utils/EmailUtilities/class-email-logger.php:140
+msgid "No email sent yet"
+msgstr "Электронное письмо ещё не отправлено"
+
+#: Inc/Backend/Views/class-email-settings-page.php:103
+msgid "Mailgun"
+msgstr "Mailgun"
+
+#: Inc/Backend/class-form-fields.php:530
+msgid "Max number of files to be uploaded"
+msgstr "Макс. количество загружаемых файлов"
+
+#: Inc/Backend/Posts/class-submitted.php:219
+msgid "Form Entry"
+msgstr "Запись в форме"
+
+#: Inc/Backend/class-form-fields.php:525
+msgid "Enable multiple file uploads"
+msgstr "Включить загрузки нескольких файлов"
+
+#: resources/assets/js/forms/components/FormSettings/FormCustomJs.jsx:13
+#: resources/assets/js/forms/containers/Sidebars/FormSettingsNavigation.js:90
+msgid "Custom JS"
+msgstr "Пользовательский JS"
+
+#: Inc/Utils/class-filemanager.php:30 Inc/Utils/class-filemanager.php:33
+#: Inc/Utils/class-filemanager.php:143 Inc/Utils/class-filemanager.php:146
+#: Inc/Utils/class-filemanager.php:151 Inc/Utils/class-filemanager.php:182
+#: resources/assets/js/form-entries/Exporter/StartExport.js:35
+msgid "Something went wrong!"
+msgstr "Что-то пошло не так!"
+
+#: Inc/Utils/class-filemanager.php:175
+msgid "Marked for deletion"
+msgstr "Отмечено для удаления"
+
+#: resources/assets/js/forms/components/Slack/SlackActionEditor.jsx:83
+msgid "-- Please select --"
+msgstr "-- Пожалуйста, выберите --"
+
+#: Inc/Backend/class-form-fields.php:775 Inc/Backend/class-form-fields.php:790
+#: resources/assets/js/forms/components/Sidebar/SidebarFormFieldEditItem.jsx:92
+msgid "Style"
+msgstr "Стиль"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:191
+msgid "We noticed that you did not setup your SMTP settings. We strongly suggest that you set this up before publishing your form as it will increase the deliverability of your email notifications."
+msgstr "Мы заметили, что вы не выполнили настройки SMTP. Настоятельно рекомендуем вам скорректировать их перед публикацией формы, так как это повысит эффективность доставки почтовых уведомлений."
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:98
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:121
+msgid "Is not"
+msgstr "Не является"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:123
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerConditional.jsx:109
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:167
+msgid "Add condition"
+msgstr "Добавить условие"
+
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:86
+msgid "Always"
+msgstr "Всегда"
+
+#: Inc/Backend/class-form-fields.php:1051
+msgid "Color Picker"
+msgstr "Выбор цвета"
+
+#: resources/assets/js/forms/containers/Sidebars/EmailBuilderSidebar.jsx:102
+msgid "Create new SMS notification"
+msgstr "Создать новое SMS-уведомление"
+
+#: Inc/Backend/class-form-fields.php:1123
+msgid "Digital Signature"
+msgstr "Цифровая подпись"
+
+#: resources/assets/js/forms/components/Misc/EmbedButtons.jsx:54
+msgid "Embed"
+msgstr "Вставить"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:99
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:122
+msgid "Greater than"
+msgstr "Больше, чем"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:129
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerConditional.jsx:117
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:174
+msgid "Remove condition"
+msgstr "Удалить условие"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:102
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:125
+msgid "Starts"
+msgstr "Старт"
+
+#: resources/assets/js/forms/containers/Sidebars/EmailBuilderSidebar.jsx:61
+#: resources/assets/js/forms/containers/Sidebars/EmailBuilderSidebar.jsx:67
+msgid "SMS"
+msgstr "СМС"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:192
+msgid "Set up SMTP now"
+msgstr "Настройте SMTP сейчас"
+
+#: resources/assets/js/forms/components/Slack/SlackActionEditor.jsx:143
+msgid "Should send notification"
+msgstr "Должен отправить уведомление"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:100
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:123
+msgid "Less than"
+msgstr "Меньше, чем"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:103
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:126
+msgid "Ends"
+msgstr "Завершение"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/FieldComponentSelect.jsx:31
+#: resources/assets/js/forms/components/Misc/FormFieldMapper.jsx:55
+msgid "-- Select a field --"
+msgstr "-- Выберите поле --"
+
+#: resources/assets/js/forms/components/FormSettings/FormCalculator.jsx:64
+msgid "You can access a list of math functions by pressing CTRL+SPACE, for example calculating the cube root or exponent of a number."
+msgstr "Нажав CTRL+SPACE, можно получить доступ к списку математических функций, например, вычислить кубический корень или экспоненту числа."
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:172
+msgid "Yemen"
+msgstr "Йемен"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:106
+msgid "Western Sahara"
+msgstr "Западная Сахара"
+
+#: Inc/Backend/PredefinedOptions/class-weekdays.php:48
+msgid "Week Days"
+msgstr "Дни недели"
+
+#: Inc/Backend/PredefinedOptions/class-weekdays.php:52
+msgid "Wednesday"
+msgstr "Среда"
+
+#: resources/assets/js/forms/components/BottomDrawerComponents/MathHelper.jsx:303
+msgid "We will try to help you in creating your first form calculation!"
+msgstr "Мы постараемся помочь вам в создании вашей первой формы расчета!"
+
+#: resources/assets/js/forms/components/Misc/ExtensionPicker.jsx:266
+msgid "Video"
+msgstr "Видео"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:229
+msgid "Ukraine"
+msgstr "Украина"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:321
+msgid "Tuvalu"
+msgstr "Тувалу"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:130
+msgid "Taiwan"
+msgstr "Тайвань"
+
+#: Inc/Backend/PredefinedOptions/class-weekdays.php:56
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:261
+msgid "We prepared some templates for you! You can import one of them or create your own from scratch."
+msgstr "Мы подготовили для вас несколько шаблонов! Вы можете импортировать один из них или создать свой собственный с нуля."
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:293
+msgid "Free"
+msgstr "Бесплатно"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:303
+msgid "Premium"
+msgstr "Премиум"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:164
+msgid "Vietnam, Socialist Republic of"
+msgstr "Вьетнам, Социалистическая Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:295
+msgid "Venezuela, Bolivarian Republic of"
+msgstr "Венесуэла, Боливарианская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:308
+msgid "Vanuatu, Republic of"
+msgstr "Вануату, Республика"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:164
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:279
+msgid "Sender email"
+msgstr "Электронная почта отправителя"
+
+#: resources/assets/js/email-settings/components/Forms/SMTPCom.jsx:28
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:148
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:261
+msgid "Sender name"
+msgstr "Имя отправителя"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:104
+msgid "Zimbabwe, Republic of"
+msgstr "Зимбабве, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:115
+msgid "Zambia, Republic of"
+msgstr "Замбия, Республика"
+
+#: public/assets/backend/js/forms.js:1
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicComponent.jsx:98
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicComponent.jsx:101
+msgid "Your logical conditions"
+msgid_plural "kaliforms"
+msgstr[0] "Ваши логические условия"
+msgstr[1] ""
+msgstr[2] ""
+
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:38
+msgid "You can enable Akismet spam protection on your form by installing and activating the Akismet plugin and adding your API key in the settings."
+msgstr "Вы можете включить защиту от спама Akismet в форме, установив и активировав плагин Akismet и добавив свой ключ API в настройках."
+
+#: Inc/Backend/class-plugin-health-checks.php:330
+msgid "We recommend that you set up SMTP settings to increase the deliverability of email notifications."
+msgstr "Мы рекомендуем скорректировать настройки SMTP, чтобы увеличить скорость доставки уведомлений по электронной почте."
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:171
+msgid "Uzbekistan, Republic of"
+msgstr "Узбекистан, Республика"
+
+#: resources/assets/js/forms/components/AddableImage/AddableImageChoice.jsx:74
+#: resources/assets/js/forms/components/Misc/MediaSelector.jsx:197
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldType.jsx:64
+msgid "Use selected image"
+msgstr "Использовать выбранное изображение"
+
+#: resources/assets/js/forms/components/FormSettings/FormCalculator.jsx:73
+msgid "Use our Math Helper"
+msgstr "Воспользуйтесь нашим помощником по математике"
+
+#: Inc/Backend/PredefinedOptions/class-us-states-postal-code.php:48
+msgid "US States Postal Code"
+msgstr "Почтовый индекс штатов США"
+
+#: Inc/Backend/PredefinedOptions/class-us-states.php:48
+msgid "US States"
+msgstr "Штаты США"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:294
+msgid "Uruguay, Eastern Republic of"
+msgstr "Уругвай, Восточная Республика"
+
+#: Inc/Backend/class-hooks.php:242
+msgid "Log deleted"
+msgstr "Журнал удалён"
+
+#: Inc/class-kaliforms.php:254
+msgid "Update Kali Forms Pro to the latest version"
+msgstr "Обновите Kali Forms Pro до последней версии"
+
+#: Inc/class-kaliforms.php:256
+msgid "Please make sure you update our plugins to the latest versions. You can do so by using the automatic plugin updater functionality, or by downloading the newest plugin file from our website."
+msgstr "Пожалуйста, убедитесь, что вы обновили наши плагины до последних версий. Вы можете сделать это с помощью функции автоматического обновления плагинов или скачав новейший файл плагина с нашего сайта."
+
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:49
+#: resources/assets/js/forms/components/Slack/SlackActionEditor.jsx:126
+msgid "Message"
+msgstr "Сообщение"
+
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageConditioner.jsx:109
+msgid "Less"
+msgstr "Меньше"
+
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageConditioner.jsx:106
+msgid "Greater"
+msgstr "Больше"
+
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageItem.jsx:63
+msgid "Default thank you message"
+msgstr "Сообщение с благодарностью по умолчанию"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:101
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerConditional.jsx:86
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:124
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageConditioner.jsx:100
+msgid "Contains"
+msgstr "Содержит"
+
+#: resources/assets/js/forms/components/Misc/ConditionalThankYouMessage.jsx:84
+msgid "Conditional thank you message"
+msgstr "Условное сообщение с благодарностью"
+
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageConditioner.jsx:41
+msgid "Condition name"
+msgstr "Название условия"
+
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageConditioner.jsx:51
+msgid "Condition field"
+msgstr "Поле условия"
+
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageEditor.jsx:88
+msgid "Back to listing"
+msgstr "Назад к списку"
+
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessage.jsx:50
+msgid "Add thank you message"
+msgstr "Добавить сообщение с благодарностью"
+
+#: Inc/Backend/class-plugin-health-checks.php:285
+msgid "A message was sent to the following email address: %s. Please follow the link in the email body to dismiss this notice."
+msgstr "Сообщение было отправлено на следующий адрес электронной почты: %s. Чтобы отклонить это уведомление, перейдите по ссылке в теле письма."
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:279
+msgid "United States Virgin Islands"
+msgstr "Виргинские острова США"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:278
+msgid "United States of America"
+msgstr "Соединённые Штаты Америки"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:266
+#: Inc/Backend/PredefinedOptions/class-country-options.php:313
+msgid "United States Minor Outlying Islands"
+msgstr "Малые отдаленные острова США"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:174
+msgid "United Nations Neutral Zone"
+msgstr "Нейтральная зона ООН"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:231
+msgid "United Kingdom of Great Britain & Northern Ireland"
+msgstr "Великобритания и Северная Ирландия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:168
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:20
+msgid "United Arab Emirates"
+msgstr "Объединённые Арабские Эмираты"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:111
+msgid "Uganda, Republic of"
+msgstr "Уганда, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:170
+msgid "Turkmenistan"
+msgstr "Туркменистан"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:169
+#: Inc/Backend/PredefinedOptions/class-country-options.php:228
+msgid "Turkey, Republic of"
+msgstr "Турция, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:110
+msgid "Tunisia, Tunisian Republic"
+msgstr "Тунис, Тунисская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-weekdays.php:51
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:276
+msgid "Trinidad and Tobago, Republic of"
+msgstr "Тринидад и Тобаго, Республика"
+
+#: Inc/Backend/class-form-styles.php:137
+msgid "Rounded borders grey"
+msgstr "Скругленные границы серого цвета"
+
+#: Inc/Backend/class-form-styles.php:147
+msgid "Straight borders grey"
+msgstr "Прямые границы серого цвета"
+
+#: Inc/Backend/class-form-styles.php:167
+msgid "Compact overlap"
+msgstr "Компактное перекрытие"
+
+#: resources/assets/js/forms/components/Misc/ExtensionPicker.jsx:264
+msgid "Documents"
+msgstr "Документы"
+
+#: resources/assets/js/forms/components/Misc/ExtensionPicker.jsx:265
+msgid "Audio"
+msgstr "Аудио"
+
+#: resources/assets/js/forms/components/Misc/ExtensionPicker.jsx:263
+msgid "Images"
+msgstr "Изображения"
+
+#: resources/assets/js/forms/components/Misc/ExtensionPicker.jsx:377
+#: resources/assets/js/forms/components/Sidebar/SidebarFormFieldEditItem.jsx:90
+msgid "Simple"
+msgstr "Простой"
+
+#: resources/assets/js/forms/components/TemplateCard/TemplateCard.jsx:73
+msgid "See demo"
+msgstr "Смотреть демо"
+
+#: Inc/Backend/class-predefined-forms.php:256
+msgid "A simple form to fill up some details to pick up a package from a certain location."
+msgstr "Простая форма для заполнения некоторых данных, чтобы забрать посылку из определенного места."
+
+#: Inc/Backend/class-predefined-forms.php:201
+msgid "A simple example of using the calculator to create a quote estimate and request."
+msgstr "Простой пример использования калькулятора для расчета стоимости и запроса."
+
+#: Inc/Backend/class-predefined-forms.php:223
+msgid "A form that can collect information about your gym customers."
+msgstr "Форма, позволяющая собирать информацию о клиентах вашего тренажерного зала."
+
+#: Inc/Backend/class-predefined-forms.php:178
+msgid "Running calculator form"
+msgstr "Форма бегового калькулятора"
+
+#: Inc/Backend/class-predefined-forms.php:179
+msgid "Easily calculate pace/time/distance using our calculator."
+msgstr "Легко рассчитайте темп/время/расстояние с помощью нашего калькулятора."
+
+#: Inc/Backend/class-form-fields.php:394
+msgid "Fixed donation amounts"
+msgstr "Фиксированные суммы пожертвований"
+
+#: Inc/Backend/class-form-fields.php:383
+msgid "Donation name"
+msgstr "Название пожертвования"
+
+#: Inc/Backend/class-predefined-forms.php:189
+msgid "Donation form"
+msgstr "Форма пожертвования"
+
+#: Inc/Backend/BuilderFormFields/class-donation.php:31
+#: Inc/Backend/class-form-fields.php:385
+msgid "Donation"
+msgstr "Пожертвование"
+
+#: Inc/Backend/class-predefined-forms.php:190
+msgid "Create donation collect form."
+msgstr "Создайте форму для сбора пожертвований."
+
+#: Inc/Backend/class-predefined-forms.php:200
+msgid "Request quote form"
+msgstr "Форма запроса ценовых предложений"
+
+#: Inc/Backend/class-predefined-forms.php:211
+msgid "Reservation form"
+msgstr "Форма бронирования"
+
+#: Inc/Backend/class-predefined-forms.php:212
+msgid "A form that can be used as to reserve rooms at your hotel."
+msgstr "Форма, которую можно использовать для бронирования номеров в вашем отеле."
+
+#: Inc/Backend/class-predefined-forms.php:222
+msgid "Gym membership form"
+msgstr "Форма членства в тренажерном зале"
+
+#: Inc/Backend/class-predefined-forms.php:244
+msgid "Simple booking form with payment"
+msgstr "Простая форма бронирования с оплатой"
+
+#: Inc/Backend/class-predefined-forms.php:233
+msgid "Simple booking form"
+msgstr "Простая форма бронирования"
+
+#: Inc/Backend/class-predefined-forms.php:255
+msgid "Package delivery request"
+msgstr "Запрос на доставку посылки"
+
+#: Inc/Backend/class-predefined-forms.php:234
+#: Inc/Backend/class-predefined-forms.php:245
+msgid "Use our date picker to book certain dates in a calendar. Dates are disabled automatically based on previous submissions."
+msgstr "Инструмент бронирования определенные дат в календаре. Даты отключаются автоматически на основе выбранных представлений."
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:269
+msgid "Suggest a new template"
+msgstr "Предложить новый шаблон"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:150
+msgid "Lebanon, Lebanese Republic"
+msgstr "Ливан, Ливанская Республика"
+
+#: resources/assets/js/forms/components/FormSettings/FormCalculator.jsx:56
+msgid "Perform calculations through your form fields, you can use the field names and standard math operators in your equations. For example:"
+msgstr "Выполняя вычисления через поля вашей формы, вы можете использовать имена полей и стандартные математические операции в своих уравнениях. Например:"
+
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:47
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:28
+#: resources/assets/js/forms/components/HubSpotIntegration/ContactFormFieldsMap.jsx:44
+msgid "Last name"
+msgstr "Фамилия"
+
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:46
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:27
+#: resources/assets/js/forms/components/HubSpotIntegration/ContactFormFieldsMap.jsx:35
+msgid "First name"
+msgstr "Имя"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:151
+msgid "Macao, Special Administrative Region of China"
+msgstr "Макао, специальный административный район Китая"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:136
+msgid "Hong Kong, Special Administrative Region of China"
+msgstr "Гонконг, специальный административный район Китая"
+
+#: resources/assets/js/forms/components/AddableImage/AddableImageChoice.jsx:73
+#: resources/assets/js/forms/components/Misc/MediaSelector.jsx:196
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldType.jsx:63
+msgid "Select image"
+msgstr "Выберите изображение"
+
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldType.jsx:150
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldType.jsx:177
+msgid "Select a field"
+msgstr "Выберите поле"
+
+#: Inc/Backend/class-form-fields.php:374
+msgid "Price type"
+msgstr "Тип цены"
+
+#: resources/assets/js/form-entries/Layout/Footer.js:12
+#: resources/assets/js/forms/components/FooterBar.jsx:56
+msgid "Rate us on WordPress!"
+msgstr "Оцените нас на WordPress!"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:101
+msgid "The form action controls where the collected information will be submitted to (this is optional, and overrides the default form submission process)."
+msgstr "Действие формы определяет, куда будет отправлена ​​собранная информация (это необязательно и переопределяет процесс отправки формы по умолчанию)."
+
+#: Inc/Backend/class-form-fields.php:567
+msgid "Accepted extensions"
+msgstr "Принятые расширения"
+
+#: Inc/Backend/class-form-fields.php:402
+msgid "5$"
+msgstr "5$"
+
+#: Inc/Backend/class-form-fields.php:404
+msgid "15$"
+msgstr "15$"
+
+#: Inc/Backend/class-form-fields.php:403
+msgid "10$"
+msgstr "10$"
+
+#: resources/assets/js/forms/components/Misc/MediaSelector.jsx:215
+msgid "Add media"
+msgstr "Добавить медиафайл"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:271
+msgid "Anguilla"
+msgstr "Ангилья"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:59
+msgid "Angola, Republic of"
+msgstr "Ангола, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:179
+msgid "Andorra, Principality of"
+msgstr "Андорра, княжество"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:298
+msgid "American Samoa"
+msgstr "Американское Самоа"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:338
+msgid "All Countries"
+msgstr "Все страны"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:70
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:283
+msgid "All"
+msgstr "Все"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:58
+msgid "Algeria"
+msgstr "Алжир"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:178
+msgid "Albania, Republic of"
+msgstr "Албания, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:343
+msgid "Africa"
+msgstr "Африка"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:118
+msgid "Afghanistan, Islamic Republic of"
+msgstr "Афганистан, Исламская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:353
+msgid "Asia"
+msgstr "Азия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:262
+msgid "Aruba"
+msgstr "Аруба"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:122
+#: Inc/Backend/PredefinedOptions/class-country-options.php:182
+msgid "Armenia, Republic of"
+msgstr "Армения, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:282
+msgid "Argentina, Argentine Republic"
+msgstr "Аргентина, Аргентинская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:53
+msgid "April"
+msgstr "Апрель"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:237
+msgid "Antigua and Barbuda"
+msgstr "Антигуа и Барбуда"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:51
+msgid "Antarctica (the territory South of 60 deg S)"
+msgstr "Антарктида (территория к югу от 60 градусов ю.ш.)"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:194
+msgid "Åland Islands"
+msgstr "Аландские острова"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:119
+#: Inc/Backend/PredefinedOptions/class-country-options.php:180
+msgid "Azerbaijan, Republic of"
+msgstr "Азербайджан, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:181
+msgid "Austria, Republic of"
+msgstr "Австрия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:299
+msgid "Australia, Commonwealth of"
+msgstr "Австралия, Австралийский Союз"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:57
+msgid "August"
+msgstr "Август"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:277
+msgid "Attach files from media library"
+msgstr "Вложение файлов из медиатеки"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:241
+msgid "Belize"
+msgstr "Белиз"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:183
+msgid "Belgium, Kingdom of"
+msgstr "Бельгия, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:186
+msgid "Belarus, Republic of"
+msgstr "Беларусь, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:239
+msgid "Barbados"
+msgstr "Барбадос"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:121
+msgid "Bangladesh, People Republic of"
+msgstr "Бангладеш, Народная Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:120
+msgid "Bahrain, Kingdom of"
+msgstr "Бахрейн, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:238
+msgid "Bahamas, Commonwealth of the"
+msgstr "Багамские острова, Содружество"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:124
+msgid "British Indian Ocean Territory (Chagos Archipelago)"
+msgstr "Британская территория в Индийском океане (архипелаг Чагос)"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:284
+msgid "Brazil, Federative Republic of"
+msgstr "Бразилия, Федеративная Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:52
+msgid "Bouvet Island (Bouvetoya)"
+msgstr "Остров Буве (Bouvetoya)"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:60
+msgid "Botswana, Republic of"
+msgstr "Ботсвана, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:184
+msgid "Bosnia and Herzegovina"
+msgstr "Босния и Герцеговина"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:264
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr "Бонайре, Синт-Эстатиус и Саба"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:283
+msgid "Bolivia, Republic of"
+msgstr "Боливия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:123
+msgid "Bhutan, Kingdom of"
+msgstr "Бутан, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:240
+msgid "Bermuda"
+msgstr "Бермуды"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:70
+msgid "Benin, Republic of"
+msgstr "Бенин, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:127
+msgid "Cambodia, Kingdom of"
+msgstr "Камбоджа, Королевство"
+
+#: resources/assets/js/forms/components/FormSettings/FormCalculator.jsx:52
+#: resources/assets/js/forms/containers/Sidebars/FormSettingsNavigation.js:74
+msgid "Calculator"
+msgstr "Калькулятор"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:61
+msgid "Burundi, Republic of"
+msgstr "Бурунди, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:114
+msgid "Burkina Faso"
+msgstr "Буркина-Фасо"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:185
+msgid "Bulgaria, Republic of"
+msgstr "Болгария, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:125
+msgid "Brunei Darussalam"
+msgstr "Бруней-Даруссалам"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:242
+msgid "British Virgin Islands"
+msgstr "Виргинские острова Британии"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:65
+msgid "Chad, Republic of"
+msgstr "Чад, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:63
+msgid "Cape Verde, Republic of"
+msgstr "Кабо-Верде, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-canadian-provinces.php:48
+msgid "Canadian Provinces"
+msgstr "Провинции Канады"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:243
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:26
+msgid "Canada"
+msgstr "Канада"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:66
+msgid "Comoros, Union of the"
+msgstr "Коморские острова, Союз"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:286
+msgid "Colombia, Republic of"
+msgstr "Колумбия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:132
+msgid "Cocos (Keeling) Islands"
+msgstr "Кокосовые (Килинг) острова"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:131
+msgid "Christmas Island"
+msgstr "Остров Рождества"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:129
+msgid "China, People Republic of"
+msgstr "Китай, Народная Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:285
+msgid "Chile, Republic of"
+msgstr "Чили, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:386
+msgid "Countries"
+msgstr "Страны"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:245
+msgid "Costa Rica, Republic of"
+msgstr "Коста-Рика, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:301
+msgid "Cook Islands"
+msgstr "Острова Кука"
+
+#: resources/assets/js/forms/components/FooterBar.jsx:69
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:68
+msgid "Congo, Republic of the"
+msgstr "Конго, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:69
+msgid "Congo, Democratic Republic of the"
+msgstr "Конго, Демократическая Республика"
+
+#: Inc/Backend/class-plugin-health-checks.php:268
+msgid "Confirm email delivery"
+msgstr "Подтвердить доставку электронной почты"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:261
+msgid "Curaçao"
+msgstr "Кюрасао"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:246
+msgid "Cuba, Republic of"
+msgstr "Куба, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:187
+msgid "Croatia, Republic of"
+msgstr "Хорватия, Республика"
+
+#: resources/assets/js/forms/containers/Sidebars/EmailBuilderSidebar.jsx:78
+msgid "Create new email notification"
+msgstr "Создание нового уведомления по электронной почте"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:189
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:31
+msgid "Czech Republic"
+msgstr "Чешская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:133
+#: Inc/Backend/PredefinedOptions/class-country-options.php:188
+msgid "Cyprus, Republic of"
+msgstr "Кипр, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:324
+msgid "Disputed Territory"
+msgstr "Спорная территория"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:61
+msgid "December"
+msgstr "Декабрь"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:190
+msgid "Denmark, Kingdom of"
+msgstr "Дания, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:287
+msgid "Ecuador, Republic of"
+msgstr "Эквадор, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:248
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:34
+msgid "Dominican Republic"
+msgstr "Доминиканская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:247
+msgid "Dominica, Commonwealth of"
+msgstr "Доминика, Содружество"
+
+#: resources/assets/js/forms/components/FooterBar.jsx:66
+msgid "Documentation"
+msgstr "Документация"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:74
+msgid "Djibouti, Republic of"
+msgstr "Джибути, Республика"
+
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:33
+msgid "Enable Akismet anti spam"
+msgstr "Включите функцию защиты от спама Akismet"
+
+#: Inc/Backend/Posts/class-forms.php:121
+msgid "Email delivery confirmed"
+msgstr "Доставка по электронной почте подтверждена"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:254
+msgid "Email body"
+msgstr "Содержимое письма"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:249
+msgid "El Salvador, Republic of"
+msgstr "Сальвадор, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:112
+msgid "Egypt, Arab Republic of"
+msgstr "Египет, Арабская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:358
+msgid "Europe"
+msgstr "Европа"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:72
+msgid "Ethiopia, Federal Democratic Republic of"
+msgstr "Эфиопия, Федеративная Демократическая Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:191
+msgid "Estonia, Republic of"
+msgstr "Эстония, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:73
+msgid "Eritrea, State of"
+msgstr "Эритрея, государство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:71
+msgid "Equatorial Guinea, Republic of"
+msgstr "Экваториальная Гвинея, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:302
+msgid "Fiji, Republic of the Fiji Islands"
+msgstr "Фиджи, Республика Острова Фиджи"
+
+#: resources/assets/js/forms/components/BottomDrawerComponents/MathHelper.jsx:391
+msgid "Fields to calculate"
+msgstr "Поля для расчета"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:90
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:98
+#: resources/assets/js/forms/components/ModulaIntegration/ModulaIntegration.jsx:61
+msgid "Form action"
+msgstr "Действие формы"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:193
+msgid "Finland, Republic of"
+msgstr "Финляндия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:51
+msgid "February"
+msgstr "Февраль"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:192
+msgid "Faroe Islands"
+msgstr "Фарерские острова"
+
+#: Inc/Backend/class-form-fields.php:379
+msgid "Fixed price"
+msgstr "Фиксированная цена"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:288
+msgid "Falkland Islands (Malvinas)"
+msgstr "Фолклендские (Мальвинские) острова"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:110
+msgid "Form method"
+msgstr "Метод формы"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:378
+msgid "Form calculator"
+msgstr "Калькулятор формы"
+
+#: Inc/Backend/PredefinedOptions/class-weekdays.php:54
+msgid "Friday"
+msgstr "Пятница"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:303
+msgid "French Polynesia"
+msgstr "Французская Полинезия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:289
+msgid "French Guiana"
+msgstr "Французская Гвиана"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:195
+msgid "France, French Republic"
+msgstr "Франция, Французская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:198
+msgid "Gibraltar"
+msgstr "Гибралтар"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:77
+msgid "Ghana, Republic of"
+msgstr "Гана, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:197
+msgid "Germany, Federal Republic of"
+msgstr "Германия, Федеративная Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:134
+#: Inc/Backend/PredefinedOptions/class-country-options.php:196
+msgid "Georgia"
+msgstr "Грузия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:76
+msgid "Gambia, Republic of the"
+msgstr "Гамбия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:75
+msgid "Gabon, Gabonese Republic"
+msgstr "Габон, Габонская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:232
+msgid "Guernsey, Bailiwick of"
+msgstr "Гернси, Бейливик"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:253
+msgid "Guatemala, Republic of"
+msgstr "Гватемала, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:305
+msgid "Guam"
+msgstr "Гуам"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:252
+msgid "Guadeloupe"
+msgstr "Гваделупа"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:251
+msgid "Grenada"
+msgstr "Гренада"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:250
+msgid "Greenland"
+msgstr "Гренландия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:199
+msgid "Greece, Hellenic Republic"
+msgstr "Греция, Греческая Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:55
+msgid "Heard Island and McDonald Islands"
+msgstr "Остров Херд и острова Макдональд"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:254
+msgid "Haiti, Republic of"
+msgstr "Гаити, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:290
+msgid "Guyana, Co-operative Republic of"
+msgstr "Гайана, Кооперативная Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:94
+msgid "Guinea-Bissau, Republic of"
+msgstr "Гвинея-Бисау, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:78
+msgid "Guinea, Republic of"
+msgstr "Гвинея, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:255
+msgid "Honduras, Republic of"
+msgstr "Гондурас, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:200
+msgid "Holy See (Vatican City State)"
+msgstr "Святой Престол (город-государство Ватикан)"
+
+#: Inc/Backend/BuilderFormFields/class-image-radio.php:32
+msgid "Image Radio"
+msgstr "Радиокнопка с картинкой"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:202
+msgid "Iceland, Republic of"
+msgstr "Исландия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:201
+msgid "Hungary, Republic of"
+msgstr "Венгрия, Республика"
+
+#: resources/assets/js/forms/components/BottomDrawerComponents/Presets.jsx:204
+#: resources/assets/js/forms/components/BottomDrawerComponents/Presets.jsx:242
+msgid "Import Presets"
+msgstr "Импорт предустановок"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:203
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:45
+msgid "Ireland"
+msgstr "Ирландия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:173
+msgid "Iraq-Saudi Arabia Neutral Zone"
+msgstr "Нейтральная зона между Ираком и Саудовской Аравией"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:140
+msgid "Iraq, Republic of"
+msgstr "Ирак, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:139
+msgid "Iran, Islamic Republic of"
+msgstr "Иран, Исламская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:138
+msgid "Indonesia, Republic of"
+msgstr "Индонезия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:137
+msgid "India, Republic of"
+msgstr "Индия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:55
+msgid "June"
+msgstr "Июнь"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:56
+msgid "July"
+msgstr "Июль"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:144
+msgid "Jordan, Hashemite Kingdom of"
+msgstr "Иордания, Хашимитское Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:233
+msgid "Jersey, Bailiwick of"
+msgstr "Джерси, Бейливик"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:142
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:48
+msgid "Japan"
+msgstr "Япония"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:50
+msgid "January"
+msgstr "Январь"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:256
+msgid "Jamaica"
+msgstr "Ямайка"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:79
+msgid "Ivory Coast, Republic of"
+msgstr "Берег Слоновой Кости, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:204
+msgid "Italy, Italian Republic"
+msgstr "Италия, Итальянская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:141
+msgid "Israel, State of"
+msgstr "Израиль, государство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:234
+msgid "Isle of Man"
+msgstr "Остров Мэн"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:80
+msgid "Kenya, Republic of"
+msgstr "Кения, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:143
+#: Inc/Backend/PredefinedOptions/class-country-options.php:205
+msgid "Kazakhstan, Republic of"
+msgstr "Казахстан, Республика"
+
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicEditor.jsx:66
+msgid "What will happen to the field"
+msgstr "Что будет с полем"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:320
+msgid "Tonga, Kingdom of"
+msgstr "Тонга, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:319
+msgid "Tokelau"
+msgstr "Токелау"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:109
+msgid "Togo, Togolese Republic"
+msgstr "Того, Тоголезская Республика"
+
+#: public/assets/backend/js/forms.js:1
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicComponent.jsx:136
+msgid "There are no fields that allow conditionals (e.g. Dropdowns, Checkboxes, Radios)."
+msgid_plural "kaliforms"
+msgstr[0] "Нет полей, допускающих условные обозначения (например, выпадающие списки, флажки, радиокнопка)."
+msgstr[1] ""
+msgstr[2] ""
+
+#: Inc/Backend/PredefinedOptions/class-weekdays.php:53
+msgid "Thursday"
+msgstr "Четверг"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:159
+msgid "Timor-Leste, Democratic Republic of"
+msgstr "Тимор-Лешти, Демократическая Республика"
+
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicEditor.jsx:39
+msgid "The current field"
+msgstr "Текущее поле"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:322
+msgid "Wallis and Futuna"
+msgstr "Уоллис и Футуна"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:167
+msgid "Thailand, Kingdom of"
+msgstr "Таиланд, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:113
+msgid "Tanzania, United Republic of"
+msgstr "Танзания, Объединенная Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:166
+msgid "Tajikistan, Republic of"
+msgstr "Таджикистан, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:165
+msgid "Syrian Arab Republic"
+msgstr "Сирийская Арабская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:227
+msgid "Switzerland, Swiss Confederation"
+msgstr "Швейцария, Швейцарская Конфедерация"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:226
+msgid "Sweden, Kingdom of"
+msgstr "Швеция, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:108
+msgid "Swaziland, Kingdom of"
+msgstr "Свазиленд, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:225
+msgid "Svalbard & Jan Mayen Islands"
+msgstr "Шпицберген и острова Ян-Майен"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:293
+msgid "Suriname, Republic of"
+msgstr "Суринам, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:107
+msgid "Sudan, Republic of"
+msgstr "Судан, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:128
+msgid "Sri Lanka, Democratic Socialist Republic of"
+msgstr "Шри-Ланка, Демократическая Социалистическая Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:175
+msgid "Spratly Islands"
+msgstr "Острова Спратли"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:224
+msgid "Spain, Kingdom of"
+msgstr "Испания, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:368
+msgid "South America"
+msgstr "Южная Америка"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:103
+msgid "South Africa, Republic of"
+msgstr "Южная Африка, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:105
+msgid "South Sudan"
+msgstr "Южный Судан"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:53
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Южная Георгия и Южные Сандвичевы острова"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:102
+msgid "Somalia, Somali Republic"
+msgstr "Сомали, Сомалийская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:223
+msgid "Slovenia, Republic of"
+msgstr "Словения, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:263
+msgid "Sint Maarten (Netherlands)"
+msgstr "Синт-Мартен (Нидерланды)"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:222
+msgid "Slovakia (Slovak Republic)"
+msgstr "Словакия (Словацкая Республика)"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:163
+msgid "Singapore, Republic of"
+msgstr "Сингапур, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:101
+msgid "Sierra Leone, Republic of"
+msgstr "Сьерра-Леоне, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:58
+msgid "September"
+msgstr "Сентябрь"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:99
+msgid "Senegal, Republic of"
+msgstr "Сенегал, Республика"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:182
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:333
+msgid "Send notification to"
+msgstr "Отправьте уведомление на"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:235
+msgid "Send hidden copy to"
+msgstr "Отправить скрытую копию на"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:218
+msgid "Send copy to"
+msgstr "Отправить копию на"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:221
+msgid "Serbia, Republic of"
+msgstr "Сербия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:100
+msgid "Seychelles, Republic of"
+msgstr "Сейшельские острова, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:162
+msgid "Saudi Arabia, Kingdom of"
+msgstr "Саудовская Аравия, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-weekdays.php:55
+msgid "Saturday"
+msgstr "Суббота"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:220
+msgid "San Marino, Republic of"
+msgstr "Сан-Марино, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:323
+msgid "Samoa, Independent State of"
+msgstr "Самоа, независимое государство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:275
+msgid "Saint Vincent and the Grenadines"
+msgstr "Сент-Винсент и Гренадины"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:98
+msgid "Sao Tome and Principe, Democratic Republic of"
+msgstr "Сан-Томе и Принсипи, Демократическая Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:274
+msgid "Saint Pierre and Miquelon"
+msgstr "Сен-Пьер и Микелон"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:273
+msgid "Saint Martin"
+msgstr "Сен-Мартен"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:272
+msgid "Saint Lucia"
+msgstr "Сент-Люсия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:270
+msgid "Saint Kitts and Nevis, Federation of"
+msgstr "Сент-Китс и Невис, Федерация"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:269
+msgid "Saint Barthelemy"
+msgstr "Сен-Бартелеми"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:96
+msgid "Rwanda, Republic of"
+msgstr "Руанда, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:161
+#: Inc/Backend/PredefinedOptions/class-country-options.php:219
+msgid "Russian Federation"
+msgstr "Российская Федерация"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:218
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:62
+msgid "Romania"
+msgstr "Румыния"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:160
+msgid "Qatar, State of"
+msgstr "Катар, государство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:268
+msgid "Puerto Rico, Commonwealth of"
+msgstr "Пуэрто-Рико, Содружество"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:216
+msgid "Poland, Republic of"
+msgstr "Польша, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:348
+msgid "Antarctica"
+msgstr "Антарктика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:244
+msgid "Cayman Islands"
+msgstr "Кайманские острова"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:64
+msgid "Central African Republic"
+msgstr "Центральная Африканская Республика"
+
+#: Inc/Backend/class-form-fields.php:257
+msgid "Country"
+msgstr "Страна"
+
+#: public/assets/backend/js/forms.js:1
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicComponent.jsx:88
+#: resources/assets/js/forms/components/Slack/Slack.jsx:56
+#: resources/assets/js/forms/components/WebHooks/WebHooks.jsx:60
+msgid "Create"
+msgid_plural "kaliforms"
+msgstr[0] "Создать"
+msgstr[1] ""
+msgstr[2] ""
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:54
+msgid "French Southern Territories"
+msgstr "Французские южные территории"
+
+#: resources/assets/js/forms/components/TemplateCard/TemplateCard.jsx:82
+msgid "Get started"
+msgstr "Приступить"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:152
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:54
+msgid "Malaysia"
+msgstr "Малайзия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:257
+msgid "Martinique"
+msgstr "Мартиника"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:67
+msgid "Mayotte"
+msgstr "Майотта"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:154
+msgid "Mongolia"
+msgstr "Монголия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:259
+msgid "Montserrat"
+msgstr "Монсеррат"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:307
+msgid "New Caledonia"
+msgstr "Новая Каледония"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:309
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:57
+msgid "New Zealand"
+msgstr "Новая Зеландия"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:310
+msgid "Niue"
+msgstr "Ниуэ"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:311
+msgid "Norfolk Island"
+msgstr "Остров Норфолк"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:363
+msgid "North America"
+msgstr "Северная Америка"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:373
+msgid "Oceania"
+msgstr "Океания"
+
+#: resources/assets/js/forms/components/AddableList/AddableListContainer.jsx:154
+#: resources/assets/js/forms/components/BottomDrawerComponents/Presets.jsx:140
+msgid "Presets"
+msgstr "Заготовки"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:95
+msgid "Reunion"
+msgstr "Реюньон"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:97
+msgid "Saint Helena"
+msgstr "Остров Святой Елены"
+
+#: resources/assets/js/forms/components/BottomDrawerComponents/MathHelper.jsx:403
+#: resources/assets/js/forms/components/BottomDrawerComponents/Presets.jsx:182
+#: resources/assets/js/forms/components/BottomDrawerComponents/Presets.jsx:221
+#: resources/assets/js/forms/components/Misc/ExtensionPicker.jsx:322
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:300
+msgid "Solomon Islands"
+msgstr "Соломоновы Острова"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:277
+msgid "Turks and Caicos Islands"
+msgstr "Теркс и Кайкос"
+
+#: Inc/Backend/class-plugin-health-checks.php:354
+msgid "Send a test email to the administrator account."
+msgstr "Отправьте тестовое электронное письмо на учётную запись администратора."
+
+#: resources/assets/js/forms/components/BottomDrawerComponents/MathHelper.jsx:321
+msgid "Select total field"
+msgstr "Выберите итоговое поле"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:385
+msgid "Select the visual style"
+msgstr "Выберите визуальный стиль"
+
+#: Inc/Backend/class-translations.php:56
+#: public/assets/frontend/js/elementor.js:252
+#: public/assets/frontend/js/frontend.js:240
+#: resources/assets/js/frontend/form-processor.js:76
+msgid "Please complete recaptcha challenge"
+msgstr "Пожалуйста, выполните задание recaptcha"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:318
+msgid "Pitcairn Islands"
+msgstr "Острова Питкэрн"
+
+#: Inc/Backend/class-form-fields.php:358
+msgid "Picture"
+msgstr "Рисунок"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:158
+msgid "Philippines, Republic of the"
+msgstr "Филиппины, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:292
+msgid "Peru, Republic of"
+msgstr "Перу, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:135
+msgid "Palestinian Territory, Occupied"
+msgstr "Палестинская территория"
+
+#: resources/assets/js/forms/components/TemplateCard/TemplateCard.jsx:50
+msgid "Create new"
+msgstr "Создать новую"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:293
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:326
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:190
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:217
+msgid "Show "
+msgstr "Показать "
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:217
+msgid "Portugal, Portuguese Republic"
+msgstr "Португалия, Португальская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:291
+msgid "Paraguay, Republic of"
+msgstr "Парагвай, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:317
+msgid "Papua New Guinea, Independent State of"
+msgstr "Папуа-Новая Гвинея, независимое государство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:267
+msgid "Panama, Republic of"
+msgstr "Панама, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:316
+msgid "Palau, Republic of"
+msgstr "Палау, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:157
+msgid "Pakistan, Islamic Republic of"
+msgstr "Пакистан, Исламская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:155
+msgid "Oman, Sultanate of"
+msgstr "Оман, Султанат"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:59
+msgid "October"
+msgstr "Октябрь"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:60
+msgid "November"
+msgstr "Ноябрь"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:215
+msgid "Norway, Kingdom of"
+msgstr "Норвегия, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:312
+msgid "Northern Mariana Islands, Commonwealth of the"
+msgstr "Северные Марианские острова, Содружество"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:93
+msgid "Nigeria, Federal Republic of"
+msgstr "Нигерия, Федеративная Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:92
+msgid "Niger, Republic of"
+msgstr "Нигер, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:265
+msgid "Nicaragua, Republic of"
+msgstr "Никарагуа, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:214
+msgid "Netherlands, Kingdom of the"
+msgstr "Нидерланды, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:260
+msgid "Netherlands Antilles"
+msgstr "Нидерландские Антильские острова"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:156
+msgid "Nepal, State of"
+msgstr "Непал, государство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:306
+msgid "Nauru, Republic of"
+msgstr "Науру, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:91
+msgid "Namibia, Republic of"
+msgstr "Намибия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:126
+msgid "Myanmar, Union of"
+msgstr "Мьянма, Союз"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:54
+msgid "May"
+msgstr "Май"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:88
+msgid "Mauritius, Republic of"
+msgstr "Маврикий, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:87
+msgid "Mauritania, Islamic Republic of"
+msgstr "Мавритания, Исламская Республика"
+
+#: resources/assets/js/forms/components/BottomDrawerComponents/MathHelper.jsx:301
+msgid "Math helper"
+msgstr "Помощник по математике"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:315
+msgid "Marshall Islands, Republic of the"
+msgstr "Маршалловы острова, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:52
+msgid "March"
+msgstr "Март"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:210
+msgid "Malta, Republic of"
+msgstr "Мальта, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:86
+msgid "Mali, Republic of"
+msgstr "Мали, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:153
+msgid "Maldives, Republic of"
+msgstr "Мальдивы, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:85
+msgid "Malawi, Republic of"
+msgstr "Малави, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:84
+msgid "Madagascar, Republic of"
+msgstr "Мадагаскар, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:209
+msgid "Luxembourg, Grand Duchy of"
+msgstr "Люксембург, Великое герцогство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:208
+msgid "Lithuania, Republic of"
+msgstr "Литва, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:207
+msgid "Liechtenstein, Principality of"
+msgstr "Лихтенштейн, княжество"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:82
+msgid "Liberia, Republic of"
+msgstr "Либерия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:81
+msgid "Lesotho, Kingdom of"
+msgstr "Лесото, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:206
+msgid "Latvia, Republic of"
+msgstr "Латвия, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:149
+msgid "Lao, People Democratic Republic"
+msgstr "Лаос, Народная Демократическая Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:148
+msgid "Kyrgyz Republic"
+msgstr "Кыргызская Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:147
+msgid "Kuwait, State of"
+msgstr "Кувейт, государство"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:146
+msgid "Korea, Republic of"
+msgstr "Корея, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:145
+msgid "Korea, Democratic Peoples Republic of"
+msgstr "Корея, Демократическая Народная Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:304
+msgid "Kiribati, Republic of"
+msgstr "Кирибати, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:90
+msgid "Mozambique, Republic of"
+msgstr "Мозамбик, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:89
+msgid "Morocco, Kingdom of"
+msgstr "Марокко, Королевство"
+
+#: Inc/Backend/PredefinedOptions/class-months.php:48
+msgid "Months"
+msgstr "Месяцы"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:213
+msgid "Montenegro, Republic of"
+msgstr "Черногория, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-weekdays.php:50
+msgid "Monday"
+msgstr "Понедельник"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:211
+msgid "Monaco, Principality of"
+msgstr "Монако, княжество"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:212
+msgid "Moldova, Republic of"
+msgstr "Молдова, Республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:314
+msgid "Micronesia, Federated States of"
+msgstr "Микронезия, Федеративные Штаты"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:258
+msgid "Mexico, United Mexican States"
+msgstr "Мексика, Мексиканские Соединенные Штаты"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:230
+msgid "Macedonia, The Former Yugoslav Republic of"
+msgstr "Македония, бывшая югославская республика"
+
+#: Inc/Backend/PredefinedOptions/class-country-options.php:83
+msgid "Libyan Arab Jamahiriya"
+msgstr "Ливийская Арабская Джамахирия"
+
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:68
+msgid "Honeypot anti-spam"
+msgstr "Антиспам с помощью скрытого поля"
+
+#: Inc/Backend/BuilderFormFields/class-button.php:48
+msgid "Function to run on click"
+msgstr "Функция, запускаемая если щёлкнуть"
+
+#: Inc/Backend/Posts/class-forms.php:407
+msgid "Custom form edit preview"
+msgstr "Предварительный просмотр редактирования пользовательской формы"
+
+#: resources/assets/js/email-settings/components/LogPage.jsx:132
+msgid "Clear log"
+msgstr "Очистить журнал"
+
+#: resources/assets/js/forms/components/BottomDrawerComponents/MathHelper.jsx:429
+msgid "Create Calculation"
+msgstr "Создать калькуляцию"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditorContainer.jsx:32
+msgid "You currently do not have any SMS configured."
+msgstr "В настоящее время у вас не настроено ни одного SMS."
+
+#: Inc/Backend/BuilderFormFields/class-url.php:30
+msgid "URL"
+msgstr "URL"
+
+#: Inc/Backend/Posts/class-forms.php:444
+msgid "Theme"
+msgstr "Тема"
+
+#: Inc/Backend/class-form-styles.php:122
+msgid "Dark theme"
+msgstr "Тёмная тема"
+
+#: Inc/Backend/class-form-styles.php:117
+msgid "Theme styling"
+msgstr "Стилизация темы"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:259
+msgid "One-Click Forms"
+msgstr "Формы в один щелчок"
+
+#: Inc/Backend/class-form-fields.php:294
+msgid "Zip Code"
+msgstr "Почтовый индекс"
+
+#: Inc/Backend/class-form-fields.php:452
+msgid "Trigger shortcodes"
+msgstr "Шорткоды триггера"
+
+#: Inc/Backend/class-form-fields.php:812
+msgid "Rows"
+msgstr "Строки"
+
+#: Inc/Backend/class-form-fields.php:818
+msgid "Transform to WYSIWYG?"
+msgstr "Перейти на WYSIWYG?"
+
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageEditor.jsx:72
+msgid "Start typing ..."
+msgstr "Начните печатать ..."
+
+#: Inc/Backend/class-form-fields.php:921
+msgid "United States format with country code"
+msgstr "Формат США с кодом страны"
+
+#: Inc/Backend/class-form-fields.php:920
+msgid "United States format"
+msgstr "Формат США"
+
+#: Inc/Backend/class-form-styles.php:127
+msgid "Minimalistic"
+msgstr "Минималистичная"
+
+#: Inc/Backend/class-form-styles.php:132
+msgid "Rounded borders"
+msgstr "Скругленные границы"
+
+#: Inc/Backend/class-form-styles.php:142
+msgid "Straight borders"
+msgstr "Прямые границы"
+
+#: Inc/Backend/class-form-styles.php:162
+msgid "Compact"
+msgstr "Компактный"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:108
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:38
+msgid "Duplicate notification"
+msgstr "Дублировать уведомление"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:141
+msgid "Duplicate field"
+msgstr "Дублировать поле"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:319
+msgid "Duplicate email"
+msgstr "Дублировать электронную почту"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:437
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicItem.jsx:32
+#: resources/assets/js/forms/components/Slack/SlackActionItem.jsx:28
+#: resources/assets/js/forms/components/WebHooks/WebHookItem.jsx:80
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:109
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:39
+msgid "Are you sure you want to duplicate this notification"
+msgstr "Вы уверены, что хотите продублировать это уведомление"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:142
+msgid "Are you sure you want to duplicate this field?"
+msgstr "Вы уверены, что хотите продублировать это поле?"
+
+#: Inc/Backend/Posts/class-forms.php:139 Inc/Backend/Posts/class-forms.php:140
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:190
+msgid "SMTP Settings"
+msgstr "Настройки SMTP"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:310
+msgid "Blank"
+msgstr "Пустой"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:311
+msgid "Start a new form from scratch"
+msgstr "Начать новую форму с нуля"
+
+#: Inc/Backend/class-predefined-forms.php:157
+msgid "Collect resumes for the positions available in your company"
+msgstr "Сбор резюме на вакансии, имеющиеся в вашей компании"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:55
+msgid "Unfortunately, you can't edit this field anymore. This field is part of the PRO package."
+msgstr "К сожалению, вы больше не можете редактировать это поле. Это поле является частью пакета PRO."
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:357
+msgid "Import this information for your form"
+msgstr "Импортируйте эту информацию для своей формы"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:362
+msgid "Layout"
+msgstr "Макет"
+
+#: resources/assets/js/forms/containers/EmailEditorContainer.jsx:31
+msgid "Add your first email"
+msgstr "Добавьте свое первое электронное письмо"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:118
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:48
+msgid "Are you sure you want to delete this notification"
+msgstr "Вы уверены, что хотите удалить это уведомление"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:161
+msgid "Are you sure you want to delete this field?"
+msgstr "Вы уверены, что хотите удалить это поле?"
+
+#: Inc/Backend/class-form-fields.php:220
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:173
+msgid "City"
+msgstr "Город"
+
+#: resources/assets/js/forms/components/AddableList/AddableListContainer.jsx:117
+msgid "Checked"
+msgstr "Проверено"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerSelection.jsx:80
+#: resources/assets/js/forms/components/Sidebar/SidebarFormFieldEditItem.jsx:91
+#: resources/assets/js/forms/components/Sidebar/SidebarFormFieldEditItem.jsx:112
+msgid "Conditional"
+msgstr "Условный"
+
+#: Inc/Backend/class-dashboard-widget.php:88
+#: Inc/Backend/Posts/class-submitted.php:113
+#: resources/assets/js/form-entries/Forms/Forms.js:26
+#: resources/assets/js/forms/components/Misc/EmbedButtons.jsx:50
+msgid "Entries"
+msgstr "Записи"
+
+#: resources/assets/js/forms/components/FormSettings/FormStyling.jsx:16
+#: resources/assets/js/forms/containers/Sidebars/FormSettingsNavigation.js:18
+msgid "Form styling"
+msgstr "Стилизация формы"
+
+#: Inc/Backend/class-form-fields.php:915
+#: resources/assets/js/forms/components/WebHooks/WebHookEditor.jsx:79
+msgid "Format"
+msgstr "Формат"
+
+#: Inc/Backend/class-plugin-review.php:111
+msgid "Hi there !"
+msgstr "Привет !"
+
+#: Inc/Backend/class-form-fields.php:922
+msgid "International format"
+msgstr "Международный формат"
+
+#: Inc/Backend/class-dashboard-widget.php:84
+msgid "Latest stats"
+msgstr "Последняя статистика"
+
+#: Inc/Backend/BuilderFormFields/class-telephone.php:31
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:172
+msgid "Phone"
+msgstr "Телефон"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:283
+msgid "Save form submissions"
+msgstr "Сохранить отправленные формы"
+
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:160
+msgid "Remove field"
+msgstr "Удалить поле"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:117
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:47
+msgid "Remove notification"
+msgstr "Удалить уведомление"
+
+#: Inc/Backend/class-form-fields.php:1008
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:151
+msgid "Show the current entry number"
+msgstr "Показать текущий номер записи"
+
+#: Inc/Backend/class-dashboard-widget.php:174
+msgid "Read more on our blog"
+msgstr "Читать далее в нашем блоге"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditorContainer.jsx:38
+msgid "Please select a SMS from the list"
+msgstr "Пожалуйста, выберите SMS из списка"
+
+#: Inc/Backend/class-form-fields.php:110
+msgid "Address"
+msgstr "Адрес"
+
+#: Inc/Backend/class-form-fields.php:146
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:175
+msgid "Address line 1"
+msgstr "Адрес"
+
+#: Inc/Backend/class-form-fields.php:183
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:176
+msgid "Address line 2"
+msgstr "Дополнения к адресу"
+
+#: resources/assets/js/forms/components/AppBar.jsx:82
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:366
+msgid "Notifications"
+msgstr "Оповещения"
+
+#: resources/assets/js/form-entries/Exporter/Exporter.js:18
+#: resources/assets/js/forms/components/Sidebar/SidebarFormFieldEditItem.jsx:88
+msgid "Options"
+msgstr "Опции"
+
+#: Inc/Backend/class-dashboard-widget.php:87
+msgid "Title"
+msgstr "Наименование"
+
+#: Inc/Backend/class-form-fields.php:314
+msgid "Please select a country ..."
+msgstr "Пожалуйста, выберите страну..."
+
+#: Inc/Backend/class-form-fields.php:919
+msgid "No format"
+msgstr "Нет формата"
+
+#: Inc/Backend/class-dashboard-widget.php:157
+msgid "Latest from our blog"
+msgstr "Последние новости из нашего блога"
+
+#: Inc/Backend/class-form-fields.php:545
+msgid "Max file size (e.g. %s)"
+msgstr "Макс. размер файла (например, %s)"
+
+#: resources/assets/js/email-settings/components/Misc/PortStatus.jsx:39
+msgid "Closed"
+msgstr "Закрыто"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:155
+msgid "Current form name"
+msgstr "Название текущей формы"
+
+#: Inc/Utils/class-duplicate-post.php:68
+msgid "(duplicate)"
+msgstr "(дубликат)"
+
+#: Inc/Backend/class-plugin-deactivation.php:193
+msgid " Deactivate"
+msgstr " Деактивировать"
+
+#: Inc/Backend/class-plugin-deactivation.php:161
+msgid "Incompatible with theme or plugin"
+msgstr "Несовместимо с темой или плагином"
+
+#. Translators: 1 is list of plugins, 2 is opening Anchor, 3 is closing.
+#: Inc/Backend/class-plugin-health-checks.php:131
+msgid "We noticed that the following plugins are active: %1$s. We recommend that you de-activate them so they don't interfere with Kali Forms. You can do it manually in the plugins page, or click the button below and we'll do it for you!"
+msgstr "Мы заметили, что активны следующие плагины: %1$s. Рекомендуем вам деактивировать их, чтобы избежать вмешательства в работу Kali Forms. Вы можете сделать это вручную на странице плагинов, или щёлкнуть по кнопке ниже, и мы сделаем это за вас!"
+
+#: Inc/Backend/class-plugin-health-checks.php:123
+msgid "We check your WordPress installation for plugins that might interfere Kali Forms so you get the best experience"
+msgstr "Мы проверим вашу систему WordPress на наличие плагинов, которые могут мешать работе Kali Forms, для того чтобы вы получили максимальную производительность"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:46
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:25
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: Inc/Backend/class-plugin-health-checks.php:202
+msgid "Use SMTP"
+msgstr "Использовать SMTP"
+
+#: Inc/Backend/class-plugin-health-checks.php:182
+msgid "Use a dedicated SMTP server to improve deliverability of emails. Please check the Host field on our dedicated Email Settings page."
+msgstr "Используйте выделенный SMTP-сервер, чтобы улучшить качество доставки электронных писем. Проверьте поле Host на нашей целевой странице настройки электронной почты."
+
+#: Inc/Backend/class-plugin-health-checks.php:188
+msgid "Use a dedicated SMTP server to improve deliverability of emails. Please check the credentials added on our dedicated Email Settings page."
+msgstr "Используйте выделенный SMTP-сервер, чтобы улучшить качество доставки электронных писем. Пожалуйста, проверьте учётные данные, добавленные на нашей целевой странице настройки электронной почты."
+
+#: Inc/Backend/class-plugin-health-checks.php:194
+msgid "Use a dedicated SMTP server to improve deliverability of emails. It might be a misconfiguration on our dedicated Email Settings page."
+msgstr "Используйте выделенный SMTP-сервер, чтобы улучшить качество доставки электронных писем. Это может быть неправильная конфигурация на нашей целевой странице настройки электронной почты."
+
+#: Inc/Backend/Views/class-email-settings-page.php:123
+#: resources/assets/js/email-settings/main-zz.js:52
+msgid "Log will appear after page refresh if this is checked"
+msgstr "Журнал появится после обновления страницы, если этот флажок установлен"
+
+#: Inc/Backend/class-form-fields.php:1027
+msgid "Date Time Picker"
+msgstr "Выбор даты и времени"
+
+#: Inc/Backend/class-plugin-health-checks.php:267
+msgid "This is a test. Feel free to delete the message."
+msgstr "Это тест. Смело удаляйте сообщение."
+
+#: Inc/Backend/Posts/class-forms.php:466
+msgid "Duplicate form"
+msgstr "Дублировать форму"
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:35
+msgid "Secure connection"
+msgstr "Безопасное соединение"
+
+#: Inc/Backend/class-plugin-health-checks.php:122
+msgid "Kali Forms - No plugin collision detected"
+msgstr "Kali Forms - коллизия плагина не обнаружена"
+
+#: Inc/Backend/class-plugin-health-checks.php:176
+msgid "Kali Forms - Emails do not use SMTP"
+msgstr "Kali Forms - электронные письма не используют SMTP"
+
+#: Inc/Backend/class-form-fields.php:1045
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:47
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:32
+msgid "Password"
+msgstr "Пароль"
+
+#: Inc/Backend/class-plugin-health-checks.php:163
+msgid "Kali Forms - Email uses SMTP"
+msgstr "Kali Forms — электронная почта использует SMTP"
+
+#: Inc/Backend/class-plugin-deactivation.php:188
+msgid "If you UNCHECK this then your email address will be sent along with your feedback. This can be used by Kali Forms to get back to you for more info or a solution."
+msgstr "Если вы ОТКЛЮЧИТЕ этот параметр, то ваш адрес электронной почты будет отправлен вместе с отзывом. Kali Forms может использовать эту информацию для связи с вами и получения дополнительной информации."
+
+#: Inc/Backend/class-plugin-deactivation.php:171
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Перед тем, как отключить плагин, не могли бы вы коротко указать причину?"
+
+#: Inc/Backend/class-dashboard-widget.php:70
+msgid "Create forms!"
+msgstr "Создавайте формы!"
+
+#: Inc/Backend/class-plugin-health-checks.php:140
+msgid "Deactivate Plugins"
+msgstr "Деактивировать плагины"
+
+#: Inc/Backend/class-plugin-review.php:62
+msgid "Don't show again"
+msgstr "Не показывать снова"
+
+#: Inc/Backend/class-plugin-deactivation.php:160
+msgid "Found a better plugin"
+msgstr "Нашел лучший плагин"
+
+#: Inc/Backend/class-plugin-deactivation.php:177
+msgid "How can we improve"
+msgstr "Как мы можем улучшить"
+
+#: Inc/Backend/class-plugin-health-checks.php:212
+msgid "Improvement"
+msgstr "Улучшение"
+
+#: Inc/Backend/class-plugin-health-checks.php:106
+msgid "Kali Forms - SMTP Test"
+msgstr "Kali Forms - SMTP тест"
+
+#: Inc/Backend/class-plugin-health-checks.php:166
+msgid "This improves deliverability of emails."
+msgstr "Это повышает доставляемость писем."
+
+#: Inc/Backend/class-plugin-review.php:60
+msgid "Rate the plugin"
+msgstr "Оцените плагин"
+
+#: Inc/Backend/class-plugin-review.php:59
+msgid "Hi there! Stoked to see you're using Kali Forms for a few days now - hope you like it! And if you do, please consider rating it. It would mean the world to us.  Keep on rocking!"
+msgstr "Привет! Рад видеть, что вы используете Kali Forms уже несколько дней - надеюсь, он вам нравится! А если понравится, пожалуйста, оцените его. Для нас это будет очень важно.  Продолжайте в том же духе!"
+
+#: Inc/Backend/class-plugin-health-checks.php:170
+msgid "Test email sending"
+msgstr "Отправьте тестовое письмо"
+
+#: Inc/Backend/class-plugin-deactivation.php:165
+msgid "Sorry to see you go"
+msgstr "Жаль, что вы уходите"
+
+#: Inc/Backend/class-form-fields.php:1015
+msgid "Smart Text Output"
+msgstr "Интеллектуальный вывод текста"
+
+#: Inc/Backend/class-form-fields.php:1021
+msgid "Range"
+msgstr "Диапазон"
+
+#: Inc/Backend/class-form-fields.php:1039
+msgid "Page Break"
+msgstr "Разрыв страницы"
+
+#: Inc/Backend/class-plugin-deactivation.php:190
+msgid "Send anonyous"
+msgstr "Отправить анонимно"
+
+#: Inc/Backend/class-plugin-deactivation.php:157
+msgid "Set up is too difficult"
+msgstr "Настройка слишком сложная"
+
+#: Inc/Backend/class-plugin-deactivation.php:162
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:180
+msgid "Other"
+msgstr "Другой"
+
+#: Inc/Backend/class-plugin-health-checks.php:149
+msgid "Performance"
+msgstr "Эффективность"
+
+#: Inc/Backend/class-plugin-review.php:61
+msgid "Remind me later"
+msgstr "Напомнить позже"
+
+#: Inc/Backend/class-plugin-deactivation.php:184
+msgid "Submitting form"
+msgstr "Отправка формы"
+
+#: Inc/Backend/class-plugin-deactivation.php:159
+msgid "Not the features I wanted"
+msgstr "Не те функции, которые я хотел"
+
+#: Inc/Backend/class-plugin-deactivation.php:158
+msgid "Lack of documentation"
+msgstr "Отсутствие документации"
+
+#: Inc/Utils/class-welcome-screen.php:53 Inc/Utils/class-welcome-screen.php:54
+msgid "Welcome to Kali Forms"
+msgstr "Добро пожаловать в Kali Forms"
+
+#. Translators: 1 is list of plugins, 2 is opening Anchor, 3 is closing.
+#: Inc/Backend/class-plugin-collision.php:86
+msgid "We noticed that the following plugins are active: %1$s. We recommend that you de-activate them so they don't interfere with Kali Forms. You can do it manually in the plugins page, or click the button below and we'll do it for you! %2$sDeactivate Plugins%3$s"
+msgstr "Мы заметили, что активны следующие плагины: %1$s. Рекомендуем вам деактивировать их, чтобы избежать вмешательства в работу Kali Forms. Вы можете сделать это вручную на странице плагинов, или щёлкнуть по кнопке ниже, и мы сделаем это за вас! %2$sДеактивировать плагины%3$s"
+
+#: Inc/Backend/Views/class-after-install-page.php:203
+msgid "Want people to submit documents or photos? Easy. Just add file upload fields to forms."
+msgstr "Хотите, чтобы люди предоставили документы или фотографии? Легко. Просто добавьте поля для загрузки файлов в формы."
+
+#: Inc/Backend/Views/class-after-install-page.php:209
+msgid "Use our built-in reCAPTCHA integration to protect your forms from spam."
+msgstr "Используйте нашу встроенную интеграцию reCAPTCHA для защиты ваших форм от спама."
+
+#: Inc/Backend/Views/class-after-install-page.php:178
+msgid "No Coding Required"
+msgstr "Кодирование не требуется"
+
+#: Inc/Backend/Views/class-after-install-page.php:197
+msgid "Easily create advanced WordPress forms using Kali Forms smart conditional logic."
+msgstr "Легко создавайте расширенные формы WordPress с помощью интеллектуальной условной логики Kali Forms."
+
+#: Inc/Backend/class-dashboard-widget.php:69
+#: Inc/Backend/Views/class-after-install-page.php:60
+msgid "Meet Kali Forms. The powerful & user-friendly WordPress form plugin. Easily create powerful contact forms, payment forms, feedback forms and more for your website without the hassle."
+msgstr "Встречайте Kali Forms. Мощный и удобный плагин для форм WordPress. Легко создавайте мощные контактные формы, формы оплаты, формы обратной связи и многое другое для вашего сайта без лишних хлопот."
+
+#: Inc/Backend/Views/class-after-install-page.php:185
+msgid "Kali Forms provides a large variety of form fields that can be used to built-up your forms."
+msgstr "Kali Forms предоставляет большое разнообразие полей форм, которые можно использовать для построения ваших форм."
+
+#: Inc/Backend/Views/class-after-install-page.php:191
+msgid "Each form submission can trigger a notification via email for both submitting users and admins."
+msgstr "Каждая отправка формы может запустить уведомление по электронной почте как для отправляющих пользователей, так и для администраторов."
+
+#: Inc/Backend/Views/class-after-install-page.php:190
+msgid "Email notifications"
+msgstr "Уведомления по электронной почте"
+
+#: Inc/Backend/Views/class-after-install-page.php:100
+msgid "1 Site"
+msgstr "1 сайт"
+
+#: Inc/Backend/Views/class-after-install-page.php:184
+msgid "All the fields you need"
+msgstr "Все необходимые поля"
+
+#: Inc/Backend/Views/class-after-install-page.php:104
+msgid "Anti spam"
+msgstr "Антиспам"
+
+#: Inc/Backend/Views/class-after-install-page.php:90
+#: Inc/Backend/Views/class-after-install-page.php:110
+#: Inc/Backend/Views/class-after-install-page.php:116
+#: Inc/Backend/Views/class-after-install-page.php:122
+msgid "✗"
+msgstr "✗"
+
+#: Inc/Backend/Views/class-after-install-page.php:91
+#: Inc/Backend/Views/class-after-install-page.php:105
+#: Inc/Backend/Views/class-after-install-page.php:106
+#: Inc/Backend/Views/class-after-install-page.php:111
+#: Inc/Backend/Views/class-after-install-page.php:117
+#: Inc/Backend/Views/class-after-install-page.php:123
+msgid "✓"
+msgstr "✓"
+
+#: Inc/Backend/Views/class-after-install-page.php:86
+msgid "Basic + Advanced"
+msgstr "Базовый + продвинутый"
+
+#: Inc/Backend/Views/class-after-install-page.php:85
+msgid "Basic"
+msgstr "Основной"
+
+#: Inc/Backend/Views/class-after-install-page.php:167
+msgid "Break long forms across multiple pages to encourage form completion."
+msgstr "Разбейте длинные формы на несколько страниц, чтобы стимулировать заполнение формы."
+
+#: Inc/Backend/Views/class-after-install-page.php:196
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:215
+msgid "Conditional Logic"
+msgstr "Условная логика"
+
+#: Inc/Backend/Views/class-after-install-page.php:84
+msgid "Field sets"
+msgstr "Наборы полей"
+
+#: Inc/Backend/Views/class-after-install-page.php:134
+msgid "Free plans"
+msgstr "Бесплатные планы"
+
+#: Inc/Backend/class-dashboard-widget.php:70
+#: Inc/Backend/Views/class-after-install-page.php:63
+msgid "Read the docs"
+msgstr "Читайте документацию"
+
+#: Inc/Backend/Views/class-after-install-page.php:173
+msgid "Save time by importing any available Kali Forms templates as a starting point."
+msgstr "Сэкономьте время, импортируйте все имеющиеся шаблоны Kali Forms в качестве отправной точки."
+
+#: Inc/Backend/Views/class-after-install-page.php:179
+msgid "Build the form you need with in minutes with our drag and drop builder."
+msgstr "Создайте нужную вам форму за считанные минуты с помощью нашего конструктора перетаскивания."
+
+#: Inc/Backend/Views/class-after-install-page.php:99
+msgid "Supported sites"
+msgstr "Поддерживаемые сайты"
+
+#: Inc/Backend/Views/class-after-install-page.php:109
+msgid "Submission handling"
+msgstr "Обработка заявок"
+
+#: Inc/Backend/Views/class-after-install-page.php:112
+msgid "Store submission data into your website database for future references."
+msgstr "Сохраните данные о подаче заявок в базе данных вашего сайта для дальнейшего использования."
+
+#: Inc/Backend/Views/class-after-install-page.php:118
+msgid "Setup conditional statements that will allow you to hide certain fields until the correct selections are made."
+msgstr "Настройте условные сообщения, которые позволят вам скрывать определенные поля до тех пор, пока не будут сделаны правильные выборы."
+
+#: Inc/Backend/Views/class-after-install-page.php:229
+msgid "Read More"
+msgstr "Читать далее"
+
+#: Inc/Backend/Views/class-after-install-page.php:172
+msgid "Predesigned Templates"
+msgstr "Готовые шаблоны"
+
+#: Inc/Backend/Views/class-after-install-page.php:133
+msgid "Paid plans"
+msgstr "Платные планы"
+
+#: Inc/Backend/Views/class-after-install-page.php:94
+msgid "Number of fields"
+msgstr "Количество полей"
+
+#: Inc/Backend/Views/class-after-install-page.php:101
+msgid "Multiple Sites"
+msgstr "Несколько сайтов"
+
+#: Inc/Backend/Views/class-after-install-page.php:89
+msgid "Multi-Page forms"
+msgstr "Многостраничные формы"
+
+#: Inc/Backend/Views/class-after-install-page.php:166
+msgid "Multi-page Forms"
+msgstr "Многостраничные формы"
+
+#: Inc/Backend/Views/class-after-install-page.php:214
+msgid "Kali Forms Features"
+msgstr "Функции Kali Forms"
+
+#: Inc/Backend/Views/class-after-install-page.php:124
+msgid "Gain more control over how your form looks and performs using the custom scripting areas"
+msgstr "Получите больше контроля над тем, как выглядит и работает ваша форма, используя пользовательский сценарий области"
+
+#: Inc/Backend/Views/class-after-install-page.php:202
+msgid "Easy File Uploads"
+msgstr "Простота загрузки файлов"
+
+#: Inc/Backend/Views/class-after-install-page.php:72
+msgid "If you have any questions about Kali Forms, what features are available or how to get started – feel free to get in touch with us using the form from our %1$sContact Page%2$s."
+msgstr "Если у вас есть вопросы о Kali Forms, доступных функциях или о том, как начать работу - не стесняйтесь связаться с нами, используя форму с нашей %1$sСтранице контактов%2$s."
+
+#: Inc/Backend/Views/class-after-install-page.php:95
+#: Inc/Backend/Views/class-after-install-page.php:96
+msgid "Unlimited"
+msgstr "Без лимита"
+
+#: Inc/Backend/Views/class-after-install-page.php:208
+msgid "Say Goodbye to Form Span"
+msgstr "Попрощайтесь с Form Span"
+
+#: Inc/Backend/Views/class-after-install-page.php:121
+msgid "Custom scripting"
+msgstr "Пользовательский сценарий"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:315
+msgid "Who will receive this email?"
+msgstr "Кто получит это письмо?"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:243
+msgid "Who is sending this email?"
+msgstr "Кто отправляет это письмо?"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:195
+msgid "What is this email for?"
+msgstr "Для чего нужно это письмо?"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:368
+msgid "What information is sent through this email?"
+msgstr "Какая информация отправляется по этой электронной почте?"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:198
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:199
+msgid "Search"
+msgstr "Поиск"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:206
+msgid "rows"
+msgstr "строки"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:207
+msgid "Rows per page:"
+msgstr "Строк на странице:"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:372
+msgid "Please write the message of the email in the field below. (You can click the <> icon in order to add placeholders for your form fields)"
+msgstr "Пожалуйста, напишите сообщение электронной почты в поле ниже. (Вы можете щёлкнуть по значку <>, чтобы добавить заполнители для полей вашей формы)"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:200
+msgid "This email is used for:"
+msgstr "Эта электронная почта используется для:"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:248
+msgid "The email sender is:"
+msgstr "Отправитель электронной почты:"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:255
+msgid "Please specify the name and email of the sender in the fields below. (You can click the <> icon in order to add placeholders for your form fields)"
+msgstr "Пожалуйста, укажите имя и электронную почту отправителя в полях ниже. (Вы можете щёлкнуть по значку <>, чтобы добавить заполнители для полей вашей формы)"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:139
+msgid "The WordPress address (URL) (set in Settings - General)"
+msgstr "Адрес WordPress (URL) (устанавливается в Настройки - Общие)"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:143
+msgid "The Site address (URL) (set in Settings - General)"
+msgstr "Адрес сайта (URL) (устанавливается в Настройки - Общие)"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:131
+msgid "Site title (set in Settings - General)"
+msgstr "Название сайта (устанавливается в Настройки - Общие)"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:135
+msgid "Site tagline (set in Settings - General)"
+msgstr "Слоган сайта (устанавливается в Настройки - Общие)"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:239
+msgid "Available placeholders"
+msgstr "Доступные заглушки"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:291
+msgid "Attach the file(s) from the following fields to this email:"
+msgstr "Прикрепите к этому письму файл(ы) из следующих полей:"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:222
+msgid "Copy to clipboard"
+msgstr "Копировать в буфер обмена"
+
+#: resources/assets/js/forms/components/Misc/EmbedButtons.jsx:33
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:229
+msgid "copied to clipboard"
+msgstr "скопировано в буфер обмена"
+
+#: resources/assets/js/forms/components/BottomDrawerComponents/MathHelper.jsx:376
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:405
+msgid "Finish"
+msgstr "Завершить"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:208
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:209
+msgid "First page"
+msgstr "Первая страница"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:80
+#: resources/assets/js/forms/components/HubSpotIntegration/AdditionalFormFields.jsx:54
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:103
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:169
+msgid "Form field"
+msgstr "Поле формы"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:320
+msgid "The email will be sent to:"
+msgstr "Письмо будет отправлено по адресу:"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:210
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:211
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:212
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:213
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:214
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:215
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:205
+msgid "{from}-{to} of {count}"
+msgstr "{from}-{to} от {count}"
+
+#: Inc/Backend/BuilderFormFields/class-email.php:30
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:48
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:171
+#: resources/assets/js/forms/components/FormSettings/UserRegistration.jsx:26
+#: resources/assets/js/forms/components/HubSpotIntegration/ContactFormFieldsMap.jsx:26
+#: resources/assets/js/forms/containers/Sidebars/EmailBuilderSidebar.jsx:59
+msgid "Email"
+msgstr "Email"
+
+#: public/assets/block/js/block.js:243
+#: resources/assets/js/block/partials/get-field-component.js:77
+#: resources/assets/js/form-entries/Exporter/Exporter.js:82
+#: resources/assets/js/forms/components/BottomDrawerComponents/MathHelper.jsx:379
+#: resources/assets/js/forms/components/Builder/BuilderFormField.jsx:231
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:234
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:306
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:360
+msgid "Next"
+msgstr "Вперёд"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:190
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:229
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:327
+msgid "Please specify the email of the person that will receive this email in the field below. (You can click the <> icon in order to add placeholders for your form fields)"
+msgstr "Пожалуйста, укажите электронную почту человека, который получит это письмо, в поле ниже. (Вы можете щёлкнуть на значок <>, чтобы добавить заполнители для полей вашей формы)"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:202
+msgid "No records to display"
+msgstr "Нет записей для отображения"
+
+#: Inc/Backend/class-predefined-forms.php:112
+msgid "GDPR-Friendly contact form"
+msgstr "GDPR-совместимая контактная форма"
+
+#: Inc/Backend/class-predefined-forms.php:113
+msgid "A simple gdpr-friendly form meant to help you comunicate with your site users."
+msgstr "Простая форма, отвечающая требованиям gdpr, для общения с пользователями вашего сайта."
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:140
+msgid "Hide form name"
+msgstr "Скрыть название формы"
+
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerConditional.jsx:76
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:111
+msgid "Operator"
+msgstr "Оператор"
+
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicEditor.jsx:91
+msgid "If this field"
+msgstr "Если это полей"
+
+#: resources/assets/js/forms/components/Calculator/Calculator.jsx:20
+msgid "Current field"
+msgstr "Текущее поле"
+
+#: Inc/Backend/class-dashboard-widget.php:34
+msgid "WordPress Forms Made Easy - Kali Forms"
+msgstr "Формы WordPress, это просто — Kali Forms"
+
+#: Inc/Backend/Views/class-extensions-page.php:52
+msgid "Reload"
+msgstr "Перегрузка"
+
+#: Inc/Backend/Views/class-extensions-page.php:259
+msgid "Please activate your license"
+msgstr "Пожалуйста, активируйте вашу лицензию"
+
+#: resources/assets/js/forms/components/FormSettings/HubSpotIntegration.jsx:20
+msgid "action"
+msgstr "действие"
+
+#: resources/assets/js/forms/components/FormSettings/FormCustomPhp.jsx:32
+msgid "After form process PHP script"
+msgstr "PHP-скрипт после обработки формы"
+
+#: resources/assets/js/forms/components/FormSettings/FormCustomPhp.jsx:13
+msgid "Before form process PHP script"
+msgstr "PHP-скрипт перед обработкой формы"
+
+#: Inc/Backend/Views/class-after-install-page.php:115
+#: resources/assets/js/forms/components/FormSettings/FormConditionalLogic.jsx:11
+#: resources/assets/js/forms/containers/Sidebars/FormSettingsNavigation.js:34
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:374
+msgid "Conditional logic"
+msgstr "Условная логика"
+
+#: Inc/Backend/class-elementor-kaliforms-widget.php:150
+#: resources/assets/js/form-entries/Exporter/ExportFormatting.js:21
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:394
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:88
+#: resources/assets/js/forms/components/WebHooks/WebHookEntityCreator.jsx:77
+msgid "Field"
+msgstr "Поле"
+
+#: Inc/Backend/class-form-fields.php:336
+#: resources/assets/js/forms/components/FormSettings/StripeSettings.jsx:177
+msgid "State"
+msgstr "Область"
+
+#: public/assets/backend/js/forms.js:1
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicComponent.jsx:21
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicEditor.jsx:75
+msgid "Show"
+msgid_plural "kaliforms"
+msgstr[0] "Показать"
+msgstr[1] ""
+msgstr[2] ""
+
+#: resources/assets/js/forms/components/FormSettings/FormCustomCss.jsx:13
+#: resources/assets/js/forms/containers/Sidebars/FormSettingsNavigation.js:82
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: public/assets/backend/js/forms.js:1
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicComponent.jsx:39
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerConditional.jsx:37
+msgid "If"
+msgid_plural "kaliforms"
+msgstr[0] "Если"
+msgstr[1] ""
+msgstr[2] ""
+
+#: resources/assets/js/forms/components/TemplateCard/TemplateCard.jsx:62
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: Inc/Backend/class-translations.php:86
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:152
+msgid "Upload"
+msgstr "Загрузить"
+
+#: Inc/Backend/class-dashboard-widget.php:70
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:222
+#: Inc/Backend/Rest/class-form-entries-rest-controller.php:246
+#: Inc/Backend/Views/class-after-install-page.php:75
+#: Inc/Backend/Views/class-after-install-page.php:129
+#: Inc/Backend/Views/class-after-install-page.php:155
+#: Inc/Backend/Views/class-extensions-page.php:270
+msgid "Upgrade to PRO"
+msgstr "Обновить до PRO"
+
+#: Inc/Utils/class-filemanager.php:27
+msgid "There are no files"
+msgstr "Файлы отсутствуют"
+
+#: Inc/Backend/Posts/class-forms.php:445
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#. Translators: 1 is Plugin Name, 2 is opening Anchor, 3 is closing.
+#: Inc/Backend/Posts/class-forms.php:177
+msgid "We've been working hard on making %1$s the best one out there. We're interested in hearing your thoughts about %1$s and what we could do to make it even better. %2$sSend your feedback our way%3$s."
+msgstr "Мы упорно работаем над тем, чтобы сделать %1$s лучшим из всех существующих. Нам интересно узнать, что вы думаете о %1$s и что мы можем сделать, чтобы сделать его еще лучше. Отправляйте свой отзыв в наш адрес. %2$sОтправить свой отзыв%3$s."
+
+#: Inc/Backend/PredefinedForms/class-contact-form.php:25
+#: resources/assets/js/forms/components/HubSpotIntegration/HubSpotAction.jsx:93
+msgid "Contact form"
+msgstr "Контактная форма"
+
+#: Inc/Backend/Posts/class-forms.php:325
+msgid "View forms"
+msgstr "Просмотр форм"
+
+#: Inc/Backend/Posts/class-forms.php:321
+msgid "View form"
+msgstr "Просмотр формы"
+
+#: Inc/Backend/BuilderFormFields/class-freetext.php:33
+msgid "Free Text"
+msgstr "Свободный текст"
+
+#: Inc/Backend/BuilderFormFields/class-freetext.php:42
+msgid "Free text id"
+msgstr "Свободный текст id"
+
+#: resources/assets/js/email-settings/components/SettingsPage.jsx:36
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: Inc/Backend/BuilderFormFields/class-submit-button.php:32
+msgid "Submit Button"
+msgstr "Кнопка отправки"
+
+#: Inc/Backend/BuilderFormFields/class-button.php:54
+msgid "Button caption/label"
+msgstr "Надпись/метка кнопки"
+
+#: Inc/Backend/class-translations.php:67
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:133
+msgid "Waiting for size"
+msgstr "Ожидание размера"
+
+#: Inc/Backend/Posts/class-forms.php:365
+msgid "Form updated"
+msgstr "Форма обновлена"
+
+#: Inc/Backend/Views/class-extensions-page.php:183
+msgid "Last Updated:"
+msgstr "Последнее обновление:"
+
+#: Inc/Backend/class-dashboard-widget.php:89
+#: Inc/Backend/Posts/class-submitted.php:488
+#: resources/assets/js/form-entries/Forms/Forms.js:31
+#: resources/assets/js/form-entries/utils/DataFormatter.js:60
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:195
+msgid "Actions"
+msgstr "Действия"
+
+#: Inc/Backend/class-plugin-deactivation.php:112
+#: Inc/Backend/class-plugin-review.php:165 Inc/class-payments-simple.php:71
+#: Inc/Frontend/class-form-processor.php:909 Inc/Utils/class-akismet.php:93
+#: Inc/Utils/class-emailer.php:72 Inc/Utils/class-emailer.php:101
+#: Inc/Utils/class-filemanager.php:99 Inc/Utils/class-filemanager.php:130
+#: Inc/Utils/class-submission-actions.php:92
+#: Inc/Utils/class-submission-actions.php:95
+#: Inc/Utils/class-submission-actions.php:100
+#: Inc/Utils/class-submission-actions.php:118
+#: public/assets/frontend/js/elementor.js:252
+#: public/assets/frontend/js/frontend.js:240
+#: resources/assets/js/frontend/form-processor.js:1066
+msgid "Something went wrong"
+msgstr "Что-то пошло не так"
+
+#: resources/assets/js/forms/components/FormSettings/FormPayments.jsx:75
+msgid "Live transactions"
+msgstr "Живые транзакции"
+
+#: Inc/Backend/class-form-styles.php:87 Inc/Backend/class-hooks.php:99
+#: Inc/Backend/class-hooks.php:153 Inc/Backend/class-hooks.php:159
+#: Inc/Backend/class-hooks.php:165 Inc/Backend/class-hooks.php:183
+#: Inc/Backend/class-hooks.php:189 Inc/Backend/class-hooks.php:195
+#: Inc/Backend/class-hooks.php:219 Inc/Backend/class-hooks.php:226
+#: Inc/Backend/class-hooks.php:233 Inc/Backend/class-plugin-deactivation.php:80
+#: Inc/Backend/class-plugin-health-checks.php:73
+#: Inc/Backend/class-plugin-review.php:147 Inc/class-payments-simple.php:57
+#: Inc/Utils/class-duplicate-post.php:43
+#: Inc/Utils/class-submission-actions.php:42
+#: Inc/Utils/class-submission-actions.php:89
+#: Inc/Utils/class-submission-actions.php:113
+#: Inc/Utils/EmailUtilities/class-email-logger.php:121
+#: Inc/Utils/EmailUtilities/class-email-logger.php:128
+#: Inc/Utils/EmailUtilities/class-email-logger.php:135
+#: Inc/Utils/EmailUtilities/class-email-logger.php:171
+msgid "Denied"
+msgstr "Отказано"
+
+#: Inc/Backend/BuilderFormFields/class-form-field.php:101
+#: Inc/Backend/BuilderFormFields/class-freetext.php:47
+msgid "Field name"
+msgstr "Название поля"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:35
+msgid "Required field mark"
+msgstr "Отметка обязательного поля"
+
+#: Inc/Backend/BuilderFormFields/class-form-field.php:95
+msgid "Field id"
+msgstr "Id поля"
+
+#: Inc/Backend/BuilderFormFields/class-form-field.php:119
+#: Inc/Backend/class-form-fields.php:302 Inc/Backend/class-form-fields.php:519
+#: Inc/Backend/class-form-fields.php:608 Inc/Backend/class-form-fields.php:644
+#: Inc/Backend/class-form-fields.php:691 Inc/Backend/class-form-fields.php:730
+msgid "Default value"
+msgstr "Значение по умолчанию"
+
+#: Inc/Backend/class-form-fields.php:136 Inc/Backend/class-form-fields.php:173
+#: Inc/Backend/class-form-fields.php:210 Inc/Backend/class-form-fields.php:247
+#: Inc/Backend/class-form-fields.php:284 Inc/Backend/class-form-fields.php:326
+#: Inc/Backend/class-form-fields.php:504 Inc/Backend/class-form-fields.php:591
+#: Inc/Backend/class-form-fields.php:627 Inc/Backend/class-form-fields.php:673
+#: Inc/Backend/class-form-fields.php:759 Inc/Backend/class-form-fields.php:830
+#: Inc/Backend/class-form-fields.php:886 Inc/Backend/class-form-fields.php:927
+#: Inc/Backend/class-form-fields.php:956 Inc/Backend/class-form-fields.php:985
+msgid "Readonly"
+msgstr "Только для чтения"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:227
+#: resources/assets/js/forms/components/Misc/ConditionalThankYouMessage.jsx:94
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageEditor.jsx:69
+msgid "Thank you message"
+msgstr "Благодарственное сообщение"
+
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessage.jsx:16
+msgid "New thank you message"
+msgstr "Новое сообщение с благодарностью"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:73
+msgid "Global error message"
+msgstr "Сообщение о глобальной ошибке"
+
+#: resources/assets/js/form-entries/FormEntries/FormEntries.js:66
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:438
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicItem.jsx:38
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageItem.jsx:77
+#: resources/assets/js/forms/components/Slack/SlackActionItem.jsx:32
+#: resources/assets/js/forms/components/WebHooks/WebHookItem.jsx:84
+msgid "Delete"
+msgstr "Удалить"
+
+#: Inc/Backend/class-form-fields.php:80
+#: resources/assets/js/forms/components/FormSettings/FormPayments.jsx:25
+#: resources/assets/js/forms/containers/Sidebars/FormSettingsNavigation.js:42
+msgid "Payments"
+msgstr "Платежи"
+
+#: resources/assets/js/forms/components/FormSettings/FormPayments.jsx:30
+msgid "Currency"
+msgstr "Валюта"
+
+#: Inc/Backend/class-gutenberg-helper.php:59
+#: Inc/Frontend/class-form-processor.php:283
+#: Inc/Frontend/class-form-processor.php:893
+#: Inc/Frontend/class-form-shortcode.php:110
+#: Inc/Utils/class-payments-action-helper.php:81
+#: Inc/Utils/class-payments-action-helper.php:114
+msgid "There is no form associated with this id. Make sure you copied it correctly"
+msgstr "С этим id не связана никакая форма. Убедитесь, что вы скопировали его правильно"
+
+#: resources/assets/js/forms/components/FormSettings/FormPayments.jsx:98
+msgid "PayPal sandbox client id"
+msgstr "ID клиента \"песочницы\" PayPal"
+
+#: resources/assets/js/forms/components/FormSettings/FormPayments.jsx:85
+msgid "PayPal client id"
+msgstr "ID клиента PayPal"
+
+#: Inc/Backend/class-translations.php:71
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:137
+msgid "Uploading"
+msgstr "Загрузка"
+
+#: Inc/Backend/class-translations.php:72
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:138
+msgid "Upload complete"
+msgstr "Загрузка завершена"
+
+#: Inc/Backend/class-translations.php:73
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:139
+msgid "Upload cancelled"
+msgstr "Загрузка отменена"
+
+#: Inc/Backend/class-translations.php:84
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:150
+msgid "Undo"
+msgstr "Отменить"
+
+#: Inc/Backend/Posts/class-forms.php:341
+msgid "All forms"
+msgstr "Все формы"
+
+#: Inc/Backend/Posts/class-forms.php:152 Inc/Backend/Posts/class-forms.php:153
+msgid "Extensions"
+msgstr "Расширения"
+
+#: Inc/Backend/Views/class-extensions-page.php:255
+msgid "All done"
+msgstr "Все готово"
+
+#: Inc/Backend/Views/class-extensions-page.php:261
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: Inc/Backend/Views/class-extensions-page.php:156
+msgid "No extensions available. Come back later!"
+msgstr "Нет доступных расширений. Зайдите позже!"
+
+#: Inc/Backend/class-predefined-forms.php:124
+msgid "Use this as a starting point in building an appointment service on your site."
+msgstr "Используйте его в качестве отправной точки при создании службы встреч на вашем сайте."
+
+#: Inc/Backend/PredefinedForms/class-contact-form.php:26
+msgid "A simple form meant to help you comunicate with your site users."
+msgstr "Простая форма, предназначенная для общения с пользователями вашего сайта."
+
+#: Inc/Backend/PredefinedForms/class-employee-information-form.php:26
+msgid "Employee information form"
+msgstr "Информационная форма сотрудника"
+
+#: Inc/Backend/PredefinedForms/class-employee-information-form.php:27
+msgid "Create a database with your employee information using this form."
+msgstr "При помощи этой формы создайте базу данных с информацией о ваших сотрудниках."
+
+#: Inc/Backend/class-translations.php:55
+msgid "LOADING"
+msgstr "ЗАГРУЗКА"
+
+#: Inc/Backend/class-translations.php:69
+#: Inc/Backend/Views/Metaboxes/class-form-builder.php:36
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:135
+msgid "Loading"
+msgstr "Загрузка"
+
+#: Inc/Backend/class-predefined-forms.php:123
+msgid "Appointment form"
+msgstr "Форма назначения"
+
+#: Inc/Backend/Posts/class-forms.php:317
+msgid "Add new form"
+msgstr "Добавить новую форму"
+
+#: Inc/Backend/class-predefined-forms.php:134
+msgid "Customer feedback form"
+msgstr "Форма обратной связи с клиентом"
+
+#: Inc/Backend/class-predefined-forms.php:135
+msgid "Collect feedback from customers and improve your services."
+msgstr "Собирайте отзывы клиентов и улучшайте свои услуги."
+
+#: Inc/Backend/class-predefined-forms.php:146
+msgid "This form will help you accept registrations for an art contest event."
+msgstr "Эта форма поможет вам принять регистрацию для участия в художественном конкурсе."
+
+#: Inc/Backend/class-predefined-forms.php:145
+msgid "Art contest"
+msgstr "Художественный конкурс"
+
+#: Inc/Backend/class-predefined-forms.php:156
+msgid "Job application"
+msgstr "Заявка на работу"
+
+#: Inc/Backend/class-predefined-forms.php:167
+msgid "Gaming tournament registration"
+msgstr "Регистрация в игровом турнире"
+
+#: Inc/Backend/class-predefined-forms.php:168
+msgid "Allow ESL teams to join your tournament through this form."
+msgstr "Разрешите командам ESL присоединиться к вашему турниру через эту форму."
+
+#: resources/assets/js/email-settings/components/Forms/CustomSMTP.jsx:36
+#: resources/assets/js/form-entries/SidebarStuff/Filter.js:64
+msgid "No"
+msgstr "Нет"
+
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:78
+msgid "Remove captcha for logged user"
+msgstr "Удалить капчу для зарегистрированного пользователя"
+
+#: Inc/Backend/class-form-fields.php:117 Inc/Backend/class-form-fields.php:154
+#: Inc/Backend/class-form-fields.php:191 Inc/Backend/class-form-fields.php:228
+#: Inc/Backend/class-form-fields.php:265 Inc/Backend/class-form-fields.php:847
+msgid "Field type"
+msgstr "Тип поля"
+
+#: Inc/Backend/class-form-fields.php:471
+msgid "Divider type"
+msgstr "Тип разделителя"
+
+#: Inc/Backend/class-translations.php:79
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:145
+msgid "tap to undo"
+msgstr "нажмите, чтобы отменить"
+
+#: Inc/Backend/class-translations.php:78
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:144
+msgid "tap to retry"
+msgstr "нажмите, чтобы повторить попытку"
+
+#: Inc/Backend/class-translations.php:77
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:143
+msgid "tap to cancel"
+msgstr "нажмите для отмены"
+
+#: Inc/Backend/class-translations.php:68
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:134
+msgid "Size not available"
+msgstr "Размер не доступен"
+
+#: resources/assets/js/forms/components/AppBar.jsx:88
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:370
+msgid "Settings"
+msgstr "Настройки"
+
+#: Inc/Backend/class-translations.php:81
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:147
+msgid "Abort"
+msgstr "Отмена"
+
+#: Inc/Backend/Views/class-extensions-page.php:252
+msgid "Activate"
+msgstr "Активировать"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:195
+msgid "After form submit"
+msgstr "После отправки формы"
+
+#: resources/assets/js/forms/components/Sidebar/SidebarFormFieldEditorContainer.jsx:14
+msgid "Add your first form field!"
+msgstr "Добавьте свое первое поле формы!"
+
+#: resources/assets/js/forms/components/AddableProduct/AddableProduct.jsx:116
+msgid "Add product"
+msgstr "Добавить товар"
+
+#: Inc/Backend/class-form-fields.php:89
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: Inc/Backend/BuilderFormFields/class-button.php:42
+msgid "Button id"
+msgstr "ID кнопки"
+
+#: Inc/Backend/BuilderFormFields/class-button.php:59
+msgid "Button description"
+msgstr "Описание кнопки"
+
+#: Inc/Backend/BuilderFormFields/class-button.php:33
+msgid "Button"
+msgstr "Кнопка"
+
+#: resources/assets/js/forms/components/AppBar.jsx:76
+msgid "Builder"
+msgstr "Конструктор"
+
+#: Inc/Backend/BuilderFormFields/class-checkbox.php:34
+msgid "Checkbox"
+msgstr "Флажок"
+
+#: Inc/Backend/class-translations.php:83
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/forms/components/ConfirmationDialog/ConfirmationDialog.jsx:51
+#: resources/assets/js/frontend/filepond-settings.js:149
+msgid "Cancel"
+msgstr "Отмена"
+
+#: Inc/Backend/class-form-fields.php:308 Inc/Backend/class-form-fields.php:614
+#: Inc/Backend/class-form-fields.php:660 Inc/Backend/class-form-fields.php:707
+#: Inc/Backend/class-form-fields.php:746 Inc/Backend/class-form-fields.php:1033
+msgid "Choices"
+msgstr "Варианты"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:511
+msgid "CSS Id"
+msgstr "CSS Id"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:524
+msgid "CSS Class"
+msgstr "CSS класс"
+
+#: Inc/Backend/class-hooks.php:126
+#: Inc/Backend/Views/class-after-install-page.php:62
+#: Inc/Backend/Views/class-after-install-page.php:74
+msgid "Create your first form"
+msgstr "Создайте свою первую форму"
+
+#: Inc/Backend/BuilderFormFields/class-date.php:32
+msgid "Date field"
+msgstr "Поле даты"
+
+#: Inc/Backend/BuilderFormFields/class-divider.php:40
+msgid "Divider"
+msgstr "Делитель"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:130
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:213
+msgid "Email subject"
+msgstr "Тема электронного письма"
+
+#: Inc/Backend/Posts/class-forms.php:309
+msgid "Edit form"
+msgstr "Редактировать форму"
+
+#: Inc/Backend/class-translations.php:75
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:141
+msgid "Error during revert"
+msgstr "Ошибка при возврате"
+
+#: Inc/Backend/class-translations.php:76
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:142
+msgid "Error during remove"
+msgstr "Ошибка при удалении"
+
+#: Inc/Backend/class-translations.php:70
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:136
+msgid "Error during load"
+msgstr "Ошибка при загрузке"
+
+#: Inc/Backend/class-translations.php:74
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:140
+msgid "Error during upload"
+msgstr "Ошибка при выгрузке"
+
+#: Inc/Backend/Posts/class-forms.php:421
+msgid "Form Builder"
+msgstr "Конструктор форм"
+
+#: Inc/Backend/Posts/class-forms.php:345
+msgid "Form attributes"
+msgstr "Атрибуты формы"
+
+#: Inc/Backend/Posts/class-forms.php:349
+msgid "Filter forms list"
+msgstr "Фильтр списка форм"
+
+#: Inc/Backend/class-form-fields.php:561
+msgid "File prefix"
+msgstr "Префикс файла"
+
+#: Inc/Backend/BuilderFormFields/class-file-upload.php:34
+msgid "File upload"
+msgstr "Загрузить файл"
+
+#: resources/assets/js/forms/containers/Sidebars/FormBuilderSidebar.jsx:66
+msgid "Field properties"
+msgstr "Свойства поля"
+
+#: Inc/Backend/class-form-fields.php:124 Inc/Backend/class-form-fields.php:161
+#: Inc/Backend/class-form-fields.php:198 Inc/Backend/class-form-fields.php:235
+#: Inc/Backend/class-form-fields.php:272 Inc/Backend/class-form-fields.php:806
+#: Inc/Backend/class-form-fields.php:854 Inc/Backend/class-form-fields.php:903
+#: Inc/Backend/class-form-fields.php:944 Inc/Backend/class-form-fields.php:973
+msgid "Field placeholder"
+msgstr "Заполнитель поля"
+
+#: Inc/Backend/BuilderFormFields/class-form-field.php:113
+msgid "Field description"
+msgstr "Описание поля"
+
+#: Inc/Backend/class-translations.php:66
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:132
+msgid "Field contains invalid files"
+msgstr "Поле содержит недопустимые файлы"
+
+#: Inc/Backend/Posts/class-forms.php:361
+msgid "Form published"
+msgstr "Форма опубликована"
+
+#: resources/assets/js/form-entries/Forms/Forms.js:21
+#: resources/assets/js/forms/components/AppBar.jsx:94
+#: resources/assets/js/forms/components/FormSettings/HubSpotIntegration.jsx:125
+msgid "Form name"
+msgstr "Название формы"
+
+#: resources/assets/js/forms/containers/Sidebars/FormBuilderSidebar.jsx:65
+msgid "Form fields"
+msgstr "Поля формы"
+
+#: Inc/Backend/Posts/class-forms.php:353
+msgid "Forms list navigation"
+msgstr "Навигация по списку форм"
+
+#: Inc/Backend/Posts/class-forms.php:357
+msgid "Forms list"
+msgstr "Список форм"
+
+#: Inc/Backend/BuilderFormFields/class-grecaptcha.php:35
+msgid "Google Recaptcha"
+msgstr "Google рекапча"
+
+#: Inc/Backend/BuilderFormFields/class-hidden.php:34
+msgid "Hidden field"
+msgstr "Скрытое поле"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:135
+#: resources/assets/js/forms/components/EmailWizard/EmailWizard.jsx:218
+msgid "Hello World!"
+msgstr "Привет, мир!"
+
+#. Author URI of the plugin
+msgid "https://www.kaliforms.com/"
+msgstr "https://www.kaliforms.com/"
+
+#. Plugin URI of the plugin
+msgid "https://www.kaliforms.com"
+msgstr "https://www.kaliforms.com"
+
+#: Inc/Backend/class-form-fields.php:579
+msgid "Image preview"
+msgstr "Предварительный просмотр изображений"
+
+#: Inc/Backend/class-form-fields.php:573
+msgid "Instant Upload"
+msgstr "Мгновенная загрузка"
+
+#: Inc/Backend/BuilderFormFields/class-textbox.php:34
+msgid "Text box"
+msgstr "Текстовое поле"
+
+#: Inc/Backend/BuilderFormFields/class-radio.php:31
+msgid "Radio"
+msgstr "Радиокнопка"
+
+#: Inc/Backend/class-form-fields.php:650 Inc/Backend/class-form-fields.php:697
+#: Inc/Backend/class-form-fields.php:736
+msgid "Flow"
+msgstr "Положение"
+
+#: Inc/Backend/BuilderFormFields/class-textarea.php:33
+msgid "Textarea"
+msgstr "Текстовая область"
+
+#: resources/assets/js/email-settings/components/SettingsPage.jsx:115
+#: resources/assets/js/form-entries/FormEntry/FormEntry.js:97
+#: resources/assets/js/forms/components/Misc/AppBarSaveButton.jsx:65
+msgid "Save"
+msgstr "Сохранить"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:325
+msgid "Remove email"
+msgstr "Удалить электронную почту"
+
+#: Inc/Backend/class-translations.php:80
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:146
+msgid "Remove"
+msgstr "Удалить"
+
+#: Inc/Frontend/class-form-shortcode.php:105
+msgid "The shortcode does not provide an id for the form"
+msgstr "Шорткод не содержит id формы"
+
+#: Inc/Backend/class-translations.php:50 Inc/Backend/class-translations.php:63
+msgid "Drag & Drop your files or"
+msgstr "Перетащите и отпустите ваши файлы или"
+
+#: Inc/Backend/class-gutenberg-helper.php:62
+#: Inc/Frontend/class-form-shortcode.php:113
+msgid "This form is not published."
+msgstr "Эта форма не публикуется."
+
+#: Inc/Frontend/class-form-processor.php:898
+msgid "There is no recaptcha key"
+msgstr "Ключ recaptcha отсутствует"
+
+#: Inc/Frontend/class-form-processor.php:268
+#: Inc/Frontend/class-form-processor.php:877
+msgid "There is no post data"
+msgstr "Нет данных о записи"
+
+#: Inc/Backend/class-form-fields.php:51
+msgid "Standard fields"
+msgstr "Стандартные поля"
+
+#: Inc/Backend/class-form-fields.php:353
+#: resources/assets/js/forms/components/AddableProduct/AddableProductChoice.jsx:91
+msgid "Price"
+msgstr "Цена"
+
+#: Inc/Backend/Posts/class-forms.php:329
+msgid "Search forms"
+msgstr "Формы поиска"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:473
+msgid "Redirect URL"
+msgstr "URL перенаправления"
+
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:89
+msgid "reCAPTCHA site key"
+msgstr "reCAPTCHA ключ сайта"
+
+#: resources/assets/js/forms/components/FormSettings/FormSpam.jsx:102
+msgid "reCAPTCHA secret key"
+msgstr "reCAPTCHA секретный ключ"
+
+#: Inc/Backend/class-form-fields.php:69
+#: resources/assets/js/forms/components/Misc/ExtensionPicker.jsx:330
+#: resources/assets/js/forms/components/Sidebar/SidebarFormFieldEditItem.jsx:89
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: Inc/Backend/class-translations.php:51 Inc/Backend/class-translations.php:64
+#: public/assets/frontend/js/elementor.js:252
+#: public/assets/frontend/js/frontend.js:240
+#: resources/assets/js/frontend/form-processor.js:824
+msgid "Browse"
+msgstr "Обзор"
+
+#: Inc/Backend/class-form-fields.php:447
+#: resources/assets/js/email-settings/components/LogPage.jsx:34
+msgid "Content"
+msgstr "Содержание"
+
+#: resources/assets/js/forms/components/PlaceholderDialog/PlaceholderDialog.jsx:191
+msgid "Description"
+msgstr "Описание"
+
+#: Inc/Backend/BuilderFormFields/class-dropdown.php:31
+msgid "Dropdown"
+msgstr "Выпадающее меню"
+
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicItem.jsx:26
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageItem.jsx:72
+#: resources/assets/js/forms/components/Slack/SlackActionItem.jsx:24
+#: resources/assets/js/forms/components/WebHooks/WebHookItem.jsx:76
+msgid "Edit"
+msgstr "Изменить"
+
+#: Inc/Backend/class-elementor-kaliforms-widget.php:137
+#: resources/assets/js/forms/components/Sidebar/SidebarFormFieldEditItem.jsx:87
+#: resources/assets/js/forms/containers/Sidebars/FormSettingsNavigation.js:10
+msgid "General"
+msgstr "Основные"
+
+#: resources/assets/js/forms/containers/TemplateSelector.jsx:418
+msgid "Import"
+msgstr "Импорт"
+
+#: resources/assets/js/forms/components/SmsEditor/SmsEditor.jsx:63
+msgid "Name"
+msgstr "Имя"
+
+#: Inc/Backend/BuilderFormFields/class-paypal.php:32
+#: resources/assets/js/forms/components/Builder/BuilderZone.jsx:363
+#: resources/assets/js/forms/components/Sidebar/SidebarFieldComponentItem.jsx:256
+msgid "PayPal"
+msgstr "PayPal"
+
+#: Inc/Backend/BuilderFormFields/class-product.php:32
+msgid "Product"
+msgstr "Товар"
+
+#: Inc/Backend/class-form-fields.php:130 Inc/Backend/class-form-fields.php:167
+#: Inc/Backend/class-form-fields.php:204 Inc/Backend/class-form-fields.php:241
+#: Inc/Backend/class-form-fields.php:278 Inc/Backend/class-form-fields.php:320
+#: Inc/Backend/class-form-fields.php:388 Inc/Backend/class-form-fields.php:499
+#: Inc/Backend/class-form-fields.php:585 Inc/Backend/class-form-fields.php:621
+#: Inc/Backend/class-form-fields.php:667 Inc/Backend/class-form-fields.php:713
+#: Inc/Backend/class-form-fields.php:753 Inc/Backend/class-form-fields.php:824
+#: Inc/Backend/class-form-fields.php:860 Inc/Backend/class-form-fields.php:909
+#: Inc/Backend/class-form-fields.php:950 Inc/Backend/class-form-fields.php:979
+msgid "Required"
+msgstr "Обязательно"
+
+#: Inc/Backend/class-translations.php:82 Inc/Backend/class-translations.php:85
+#: public/assets/frontend/js/filepond.js:185
+#: resources/assets/js/frontend/filepond-settings.js:148
+#: resources/assets/js/frontend/filepond-settings.js:151
+msgid "Retry"
+msgstr "Повторить"
+
+#: resources/assets/js/forms/components/EmailBuilder/EmailEditor.jsx:199
+msgid "Reply to"
+msgstr "Ответить на"
+
+#: resources/assets/js/forms/components/AddableImage/AddableImageChoice.jsx:82
+#: resources/assets/js/forms/components/AddableList/AddableListContainer.jsx:119
+#: resources/assets/js/forms/components/AddableProduct/AddableProductChoice.jsx:81
+msgid "Label"
+msgstr "Этикетка"
+
+#: Inc/Backend/Posts/class-forms.php:313
+msgid "New form"
+msgstr "Новая форма"
+
+#: Inc/Backend/Posts/class-forms.php:333
+msgid "No forms found"
+msgstr "Формы не найдены"
+
+#: Inc/Backend/Posts/class-forms.php:337
+msgid "No forms found in Trash"
+msgstr "Формы не найдены в корзине"
+
+#: resources/assets/js/forms/components/AddableImage/AddableImage.jsx:178
+#: resources/assets/js/forms/components/AddableList/AddableListContainer.jsx:140
+msgid "Add choice"
+msgstr "Добавить выбор"
+
+#: resources/assets/js/forms/containers/FormBuilder.jsx:39
+msgid "Or select a pre-defined template"
+msgstr "Или выберите готовый шаблон"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:54
+msgid "Multiple selection separator"
+msgstr "Разделитель множественного выбора"
+
+#. Author of the plugin
+#: Inc/Backend/Posts/class-forms.php:301
+msgid "Kali Forms"
+msgstr "Kali Forms"
+
+#: Inc/Frontend/class-form-processor.php:278
+#: Inc/Frontend/class-form-processor.php:887
+msgid "Form didn`t send a form id, are we sure it is correct?"
+msgstr "Форма не отправила id формы, вы уверены, что он правильный?"
+
+#: resources/assets/js/forms/components/FormSettings/FormInfo.jsx:507
+msgid "Form class and id"
+msgstr "Класс и id формы"
+
+#: Inc/Backend/class-elementor-kaliforms-widget.php:155
+#: resources/assets/js/forms/components/AddableList/AddableListContainer.jsx:118
+#: resources/assets/js/forms/components/ConditionalLogic/ConditionalLogicEditor.jsx:151
+#: resources/assets/js/forms/components/HubSpotIntegration/ActionConditionalLogic.jsx:110
+#: resources/assets/js/forms/components/HubSpotIntegration/OwnerConditional.jsx:97
+#: resources/assets/js/forms/components/Misc/ConditionalEntity.jsx:133
+#: resources/assets/js/forms/components/MultipleThankYouMessage/MultipleThankYouMessageConditioner.jsx:118
+#: resources/assets/js/forms/components/WebHooks/WebHookEntityCreator.jsx:64
+msgid "Value"
+msgstr "Значение"

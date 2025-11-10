@@ -1,0 +1,1799 @@
+# Translation of Themes - Cafe Elementor in Russian
+# This file is distributed under the same license as the Themes - Cafe Elementor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-29 07:42:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Cafe Elementor\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The Cafe Elementor is a sleek and stylish theme for cafes, restaurants, barbeque, diner, fast food, health food, fine dining, and other food-related businesses. This theme offers a unique and modern design that will help your business stand out from the crowd. With its clean and easy-to-use interface, you can easily customize the look and feel of your website to match your brand and style. The theme features a full-width header with a background image, making it easy to showcase your restaurant or cafe's signature dishes and drinks. You can also customize this theme for sweets and chocolate rooms, coffee shops, cake shop, bistro, cafeteria, espresso bar, coffee roasters, dessert cafe,coffeehouse, tea room, patisserie, brunch spot, or any other restaurant, this theme excels for your brand. With Woocommerce compatibility this theme becomes best choice for restaurant owners. The theme also includes a menu section where you can easily showcase your menu items and prices.The theme also includes a section highlighting your specials, which is perfect for promoting daily deals and promotions. The theme is also SEO-friendly and optimized to help your website rank higher in search engine results. This will help more potential customers find your business online, which can lead to increased traffic and sales. The Cafe Elementor is a must-have for anyone looking to create a professional, modern, and stylish website for their food-related business. With its clean design, user-friendly interface, and responsive design, this theme is the perfect choice for any cafe, restaurant, or food-related business. Whether you're a seasoned web designer or just starting, the Cafe Elementor is easy to customize and set up, making it a great choice for anyone looking to create an online presence for their business. Demo: https://preview.wpelemento.com/cafe-elementor/"
+msgstr "Cafe Elementor — это стильная и элегантная тема для кафе, ресторанов, барбекю, закусочных, фастфуда, здорового питания, изысканной кухни и других предприятий, связанных с едой. Эта тема предлагает уникальный и современный дизайн, который поможет вашему бизнесу выделиться из толпы. Благодаря чистому и простому в использовании интерфейсу вы можете легко настроить внешний вид и стиль своего веб-сайта в соответствии с вашим брендом и стилем. Тема имеет полноразмерный заголовок с фоновым изображением, что позволяет легко демонстрировать фирменные блюда и напитки вашего ресторана или кафе. Вы также можете настроить эту тему для кондитерских и шоколадных комнат, кофейных магазинов, кондитерских, бистро, кафетерия, эспрессо-бара, кофейных обжарщиков, десертного кафе, кофейни, чайной, кондитерской, места для бранча или любого другого ресторана, эта тема отлично подойдет для вашего бренда. Благодаря совместимости с Woocommerce эта тема становится лучшим выбором для владельцев ресторанов. Тема также включает раздел меню, где вы можете легко продемонстрировать свои пункты меню и цены. Тема также включает раздел, в котором выделены ваши специальные предложения, что идеально подходит для продвижения ежедневных предложений и акций. Тема также оптимизирована для SEO и помогает вашему сайту занять более высокое место в результатах поисковой системы. Это поможет большему количеству потенциальных клиентов найти ваш бизнес в Интернете, что может привести к увеличению трафика и продаж. Cafe Elementor — это то, что нужно всем, кто хочет создать профессиональный, современный и стильный веб-сайт для своего бизнеса, связанного с едой. Благодаря чистому дизайну, удобному интерфейсу и адаптивному дизайну эта тема станет идеальным выбором для любого кафе, ресторана или бизнеса, связанного с едой. Независимо от того, являетесь ли вы опытным веб-дизайнером или только начинаете, Cafe Elementor легко настраивается и адаптируется, что делает его отличным выбором для всех, кто хочет создать присутствие своего бизнеса в Интернете. Демо: https://preview.wpelemento.com/cafe-elementor/"
+
+#. Theme Name of the theme
+#: style.css includes/getstart/getstart.php:5 includes/getstart/getstart.php:62
+#, gp-priority: high
+msgid "Cafe Elementor"
+msgstr "Cafe Elementor"
+
+#: includes/customizer.php:1652
+msgid " Sticky Copyright Section Enable / Disable"
+msgstr " Прикреплённый раздел авторского права:"
+
+#: includes/customizer.php:1646
+msgid "Footer Sticky Copyright"
+msgstr "Прикреплённое авторское право в подвале"
+
+#: includes/customizer.php:784
+msgid "Enable or Disable Footer Animation"
+msgstr "Анимация подвала:"
+
+#: includes/customizer.php:774
+msgid "Enable or Disable Sidebar Animation"
+msgstr "Анимация боковой панели:"
+
+#: includes/customizer.php:1729
+msgid "Widget Alignment"
+msgstr "Выравнивание виджета"
+
+#: includes/customizer.php:1113
+msgid "Enable or Disable Blog Post Animation"
+msgstr "Анимация записи блога:"
+
+#: includes/customizer.php:766 includes/customizer.php:1105
+msgid "Animation"
+msgstr "Анимация"
+
+#: functions.php:180
+msgid "DEMO"
+msgstr "ДЕМО"
+
+#: functions.php:179
+msgid "BUY NOW"
+msgstr "КУПИТЬ СЕЙЧАС"
+
+#: footer.php:68
+msgid "Categories"
+msgstr "Рубрики"
+
+#: footer.php:67
+msgid "footer4"
+msgstr "подвал 4"
+
+#: footer.php:58
+msgid "footer3"
+msgstr "подвал 3"
+
+#: footer.php:51
+msgid "footer2"
+msgstr "подвал 2"
+
+#: footer.php:45
+msgid "footer1"
+msgstr "подвал 1"
+
+#: template-parts/related-posts.php:25
+msgid "Related Post"
+msgstr "Связанная запись"
+
+#: includes/customizer.php:1329
+msgid "Enable or Disable Related post"
+msgstr "Связанная запись:"
+
+#: includes/customizer.php:1321
+msgid "Related post"
+msgstr "Связанная запись"
+
+#: includes/customizer.php:931
+msgid "Color"
+msgstr "Цвет шрифта"
+
+#: includes/customizer.php:917
+msgid "Progress Bar Color"
+msgstr "Цвет индикатора выполнения"
+
+#: includes/customizer.php:901
+msgid "Bottom"
+msgstr "Снизу"
+
+#: includes/customizer.php:900
+msgid "Top"
+msgstr "Верх"
+
+#: includes/customizer.php:882
+msgid "Progress Bar Position"
+msgstr "Позиция индикатора выполнения"
+
+#: includes/customizer.php:1510
+msgid "Enable or Disable Related Product"
+msgstr "Сопутствующий товар: вкл/откл"
+
+#: includes/customizer.php:1503
+msgid "Related Product"
+msgstr "Сопутствующий товар"
+
+#: includes/customizer.php:1217
+msgid "Enable or Disable Blog Post Pagination"
+msgstr "Пагинация записи блога: вкл/откл"
+
+#: includes/customizer.php:1209
+msgid "Blog Post Pagination"
+msgstr "Пагинация записей блога"
+
+#: includes/customizer.php:871
+msgid "Enable or Disable Progress Bar"
+msgstr "Индикатор выполнения:"
+
+#: includes/customizer.php:863
+msgid "Progress Bar"
+msgstr "Индикатор выполнения"
+
+#: includes/customizer.php:852
+msgid "Enable or Disable Dot Cursor"
+msgstr "Курсор-точка:"
+
+#: includes/customizer.php:844
+msgid "Dot Cursor"
+msgstr "Курсор-точка"
+
+#: woocommerce/checkout/form-checkout.php:32
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: includes/customizer.php:816
+msgid "Scroll To Top Border Radius"
+msgstr "Закругление рамки прокрутки вверх"
+
+#: includes/customizer.php:795
+msgid "Scroll To Top Position"
+msgstr "Позиция прокрутки вверх"
+
+#: includes/customizer.php:1620
+msgid "Footer Copyright"
+msgstr "Авторское право в подвале:"
+
+#: includes/customizer.php:1604
+msgid "Enable / Disable"
+msgstr "Включить / Отключить"
+
+#: includes/customizer.php:143
+msgid "To customize the colors of the homepage, use the Elementor editor"
+msgstr "Чтобы настроить цвета главной страницы, используйте редактор Elementor"
+
+#: includes/customizer.php:142
+msgid "Theme color"
+msgstr "Цвет темы"
+
+#: includes/customizer.php:136
+msgid "Color Option"
+msgstr "Вариант цвета"
+
+#: sidebar.php:27
+msgid "sidebar4"
+msgstr "боковая панель 4"
+
+#: sidebar.php:23
+msgid "sidebar3"
+msgstr "боковая панель 3"
+
+#: sidebar.php:17
+msgid "sidebar2"
+msgstr "боковая панель 2"
+
+#: sidebar.php:13
+msgid "sidebar1"
+msgstr "боковая панель 1"
+
+#: includes/customizer.php:1866
+msgid "Footer Social Media Link"
+msgstr "Ссылка на соцсети в подвале"
+
+#: includes/customizer.php:1845
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: includes/customizer.php:1837
+msgid "Footer Social Media Text Align"
+msgstr "Выравнивание текста соцсетей в подвале"
+
+#: includes/customizer.php:1827
+msgid "Enable or Disable Social Icon."
+msgstr "Значок соцсети:"
+
+#: includes/customizer.php:1820
+msgid "Enable or Disable your Footer Social Icon"
+msgstr "Свой значок соцсети в подвале:"
+
+#: includes/customizer.php:1811 includes/customizer.php:1875
+msgid "Footer Social Icons"
+msgstr "Значки соцсетей в подвале"
+
+#: includes/customizer.php:1247
+msgid "Enable / Disable Single Post Comment"
+msgstr "Комментарий отдельной записи:"
+
+#: includes/customizer.php:1237
+msgid "Enable / Disable Single Post Author"
+msgstr "Автор отдельной записи:"
+
+#: includes/customizer.php:1227
+msgid "Enable / Disable Single Post Date"
+msgstr "Дата отдельной записи:"
+
+#: includes/customizer.php:13
+msgid "Logo Size"
+msgstr "Размер логотипа"
+
+#: functions.php:447
+msgid "https://preview.wpelemento.com/cafe-elementor/"
+msgstr "https://preview.wpelemento.com/cafe-elementor/"
+
+#: includes/customizer.php:1094
+msgid "Single Post"
+msgstr "Отдельная запись"
+
+#: includes/customizer.php:1091
+msgid "Blog Post"
+msgstr "Запись блога"
+
+#: includes/customizer.php:733
+msgid "General"
+msgstr "Общие"
+
+#: includes/customizer.php:417
+msgid "Header"
+msgstr "Заголовок"
+
+#: includes/go-pro/class-upgrade-pro.php:76
+msgid "GET PRO"
+msgstr "ПОЛУЧИТЬ PRO"
+
+#: includes/customizer.php:1012
+msgid "Enter a value in pixels. Example:500px"
+msgstr "Введите значение в px. Напр: 500px"
+
+#: includes/customizer.php:1011
+msgid "Image Height"
+msgstr "Высота изображения"
+
+#: includes/customizer.php:1006
+msgid "Header Image height"
+msgstr "Высота изображения заголовка"
+
+#: includes/customizer.php:82
+msgid "Site Title Text Transform"
+msgstr "Преобразование текста названия сайта"
+
+#: includes/customizer.php:1805
+msgid "Personalize social media icons"
+msgstr "Персонализируйте значки соцсетей"
+
+#: includes/customizer.php:1805
+msgid "Integrate an email subscription form"
+msgstr "Интегрировать форму подписки email"
+
+#: includes/customizer.php:1805
+msgid "Tailor your footer layout"
+msgstr "Настройте макет подвала"
+
+#: includes/customizer.php:1805
+msgid "Elevate your footer with premium features:"
+msgstr "Улучшите свой подвал с помощью премиум-функций:"
+
+#: includes/customizer.php:723
+msgid "Explore enhanced typography options"
+msgstr "Изучите расширенные параметры типографики"
+
+#: includes/customizer.php:723
+msgid "Adjust icon and text font sizes"
+msgstr "Настройте размер шрифта значков и текста"
+
+#: includes/customizer.php:723
+msgid "Customize your header background color"
+msgstr "Настройте цвет фона своего заголовка"
+
+#: includes/customizer.php:723
+msgid "Enhance your header design now!"
+msgstr "Улучшите дизайн своего заголовка прямо сейчас!"
+
+#: includes/customizer.php:702 includes/customizer.php:1885
+msgid "View All"
+msgstr "Посмотреть все"
+
+#: includes/customizer.php:130 includes/customizer.php:723
+#: includes/customizer.php:1805
+msgid "Upgrade for more"
+msgstr "Обновите для большего"
+
+#: includes/customizer.php:130 includes/customizer.php:723
+#: includes/customizer.php:1805
+msgid "....and Much More"
+msgstr "... и многое другое"
+
+#: includes/customizer.php:130
+msgid "Priority Support"
+msgstr "Приоритетная поддержка"
+
+#: includes/customizer.php:130
+msgid "Enhanced Typography Options"
+msgstr "Расширенные параметры типографики"
+
+#: includes/customizer.php:130
+msgid "Customizable Text Logo"
+msgstr "Настраиваемый текстовый логотип"
+
+#: includes/customizer.php:130
+msgid "Unlock More Features in the Premium Version!"
+msgstr "Разблокируй больше возможностей в премиум-версии!"
+
+#: sidebar.php:24
+msgid "Tag Cloud"
+msgstr "Облако меток"
+
+#: includes/customizer.php:1785
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: includes/customizer.php:1778
+msgid "Copyright Text Color"
+msgstr "Цвет текста авторского права"
+
+#: no-results.php:36 no-results.php:38
+msgid "Back to Home Page"
+msgstr "Вернуться на главную страницу"
+
+#: no-results.php:31
+msgid "Don't worry&hellip; it happens to the best of us."
+msgstr "Не волнуйтесь, и это случилось с лучшими из нас."
+
+#: no-results.php:18
+msgid "here"
+msgstr "здесь"
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started %s."
+msgstr "Готовы опубликовать вашу первую запись? Начните сейчас %s."
+
+#: includes/customizer.php:1588 no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: includes/customizer.php:1580
+msgid "No Results Content"
+msgstr "Содержимое без результатов"
+
+#: includes/customizer.php:1573 no-results.php:10
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: includes/customizer.php:1565
+msgid "No Results Title"
+msgstr "Название без результатов"
+
+#: includes/customizer.php:1543
+msgid "404 Page Text"
+msgstr "Текст страницы 404"
+
+#: includes/customizer.php:1528
+msgid "404 Page Title"
+msgstr "Название страницы 404"
+
+#: includes/customizer.php:1519
+msgid "404 & No Results Page Settings"
+msgstr "Настройки страницы Без результатов и 404"
+
+#: includes/tgm/tgm.php:29
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/tgm/tgm.php:23
+msgid "ShopLentor"
+msgstr "ShopLentor"
+
+#: includes/customizer.php:1759
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: includes/customizer.php:1752
+msgid "Copyright Background Color"
+msgstr "Цвет фона авторского права"
+
+#: includes/customizer.php:805 includes/customizer.php:1734
+#: includes/customizer.php:1851
+msgid "left"
+msgstr "cлева"
+
+#: includes/customizer.php:807 includes/customizer.php:1733
+#: includes/customizer.php:1850
+msgid "right"
+msgstr "справа"
+
+#: includes/customizer.php:806 includes/customizer.php:1732
+#: includes/customizer.php:1849
+msgid "center"
+msgstr "центр"
+
+#: includes/customizer.php:1716
+msgid "Footer Widget Alignment"
+msgstr "Выравнивание виджета подвала"
+
+#: functions.php:178
+msgid "GET STARTED"
+msgstr "НАЧАЛО РАБОТЫ"
+
+#: functions.php:177
+msgid "Thank you for choosing Cafe Elementor theme .To setup the theme, please visit the get started page."
+msgstr "Благодарим Вас за выбор темы Cafe Elementor. Чтобы настроить тему, посетите страницу начала работы."
+
+#: functions.php:176
+msgid "Welcome to WPElemento"
+msgstr "Добро пожаловать в WPElemento"
+
+#: includes/customizer.php:1277
+msgid "Show / Hide Comment Box"
+msgstr "Поля комментария: показать/скрыть"
+
+#: footer.php:59 sidebar.php:28
+msgid "Meta"
+msgstr "Мета"
+
+#: footer.php:52 sidebar.php:18
+msgid "Archives"
+msgstr "Архивы"
+
+#: includes/customizer.php:1687
+msgid "Footer Widget Background"
+msgstr "Фон виджета подвала"
+
+#: includes/customizer.php:1046
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: includes/customizer.php:1041
+msgid "Header Image Overlay"
+msgstr "Наложение изображения заголовка"
+
+#: includes/customizer.php:668
+msgid "Enable/Disable Search"
+msgstr "Поиск:"
+
+#: functions.php:322
+msgid "Footer sidebar 3"
+msgstr "Боковая панель 3 подвала"
+
+#: functions.php:310
+msgid "Footer sidebar 2"
+msgstr "Боковая панель 2 подвала"
+
+#: functions.php:298
+msgid "Footer sidebar 1"
+msgstr "Боковая панель 1 подвала"
+
+#: includes/go-pro/class-upgrade-pro.php:101
+msgid "Pro Demo link"
+msgstr "Ссылка на демо Pro"
+
+#: includes/getstart/getstart.php:178
+msgid "Theme Bundle"
+msgstr "Пакет тем"
+
+#: includes/getstart/getstart.php:174
+msgid "Buy Premium"
+msgstr "Купить Premium"
+
+#: includes/getstart/getstart.php:102
+msgid "Quick Start"
+msgstr "Быстрый старт"
+
+#: includes/getstart/getstart.php:100
+msgid "Click on the quick start button to import the demo."
+msgstr "Нажмите на кнопку быстрый старт, чтобы импортировать демо-версию."
+
+#: includes/getstart/getstart.php:73
+msgid "Setup With Elementor"
+msgstr "Редактировать с помощью Elementor"
+
+#: functions.php:448
+msgid "https://www.wpelemento.com/products/wordpress-theme-bundle"
+msgstr "https://www.wpelemento.com/products/wordpress-theme-bundle"
+
+#: functions.php:336
+msgid "It appears in the footer 4."
+msgstr "Это появляется в подвале 1."
+
+#: functions.php:324
+msgid "It appears in the footer 3."
+msgstr "Это появляется в подвале 3."
+
+#: functions.php:312
+msgid "It appears in the footer 2."
+msgstr "Это появляется в подвале 2."
+
+#: functions.php:300
+msgid "It appears in the footer 1."
+msgstr "Это появляется в подвале 1."
+
+#: includes/customizer.php:1138
+msgid "Four Columns"
+msgstr "Четыре столбца"
+
+#: includes/customizer.php:1137
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: includes/customizer.php:1124
+msgid "Blog Layout"
+msgstr "Макет блога"
+
+#: functions.php:288
+msgid "This sidebar will be shown on blog pages."
+msgstr "Эта боковая панель будет отображаться на страницах блога."
+
+#: functions.php:286
+msgid "Sidebar three"
+msgstr "Боковая панель 3"
+
+#: functions.php:276
+msgid "This sidebar will be shown on pages."
+msgstr "Эта боковая панель будет отображаться на страницах."
+
+#: includes/customizer.php:971 includes/customizer.php:1136
+msgid "One Column"
+msgstr "Один столбец"
+
+#: includes/customizer.php:959
+msgid "Single Page Layout"
+msgstr "Макет отдельной страницы"
+
+#: includes/customizer.php:406
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: functions.php:274
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+#: includes/customizer.php:1481
+msgid "Sale Font Size"
+msgstr "Размер шрифта распродажи"
+
+#: includes/customizer.php:1473
+msgid "Left"
+msgstr "Слева"
+
+#: includes/customizer.php:1472
+msgid "Right"
+msgstr "Справа"
+
+#: includes/customizer.php:1462
+msgid "Sale Badge Position"
+msgstr "Позиция баннера распродажи"
+
+#: includes/customizer.php:1434
+msgid "Products Button Border Radius"
+msgstr "Радиус рамки кнопки товаров"
+
+#: includes/getstart/getstart.php:195
+msgid "Use Coupon Code"
+msgstr "Используйте код купона"
+
+#: includes/customizer.php:1412
+msgid "Single Product Layout"
+msgstr "Макет отдельного товара"
+
+#: includes/customizer.php:1404
+msgid "Enable / Disable Single Product Sidebar"
+msgstr "Боковая панель отдельного товара"
+
+#: includes/customizer.php:1077
+msgid "Enable / Disable Header Image Breadcrumb."
+msgstr "Навигационная цепочка изображения заголовка."
+
+#: includes/customizer.php:1067
+msgid "Enable / Disable Header Image Page Title."
+msgstr "Название страницы изображения заголовка:"
+
+#: includes/customizer.php:1389
+msgid "Products Per Page"
+msgstr "Товаров на страницу"
+
+#: includes/customizer.php:1375
+msgid "Products Per Row"
+msgstr "Товаров на строку"
+
+#: includes/customizer.php:969 includes/customizer.php:1134
+#: includes/customizer.php:1361 includes/customizer.php:1418
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: includes/customizer.php:970 includes/customizer.php:1135
+#: includes/customizer.php:1360 includes/customizer.php:1417
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: includes/customizer.php:1355
+msgid "Shop Page Layouts"
+msgstr "Макет страницы магазина"
+
+#: includes/customizer.php:1347
+msgid "Enable/Disable Shop Page Sidebar"
+msgstr "Боковая панель страницы магазина"
+
+#: includes/customizer.php:1339
+msgid "Woocommerce Settings of themes"
+msgstr "Настройки Woocommerce в теме"
+
+#: includes/customizer.php:1338
+msgid "Woocommerce Settings"
+msgstr "Настройки WooCommerce"
+
+#: includes/go-pro/class-upgrade-pro.php:102
+msgid "Demo"
+msgstr "Демо"
+
+#: includes/go-pro/class-upgrade-pro.php:89
+msgid "DOCS"
+msgstr "Документация"
+
+#: includes/getstart/plugin-activation.php:148
+msgid "Activate %s Now"
+msgstr "Активировать %s сейчас"
+
+#: includes/getstart/plugin-activation.php:131
+msgid "Install & Activate"
+msgstr "Установить и активировать"
+
+#: includes/getstart/plugin-activation.php:129
+msgid "Install %s Now"
+msgstr "Установить %s сейчас"
+
+#: includes/getstart/plugin-activation.php:55
+msgid "Error"
+msgstr "Ошибка"
+
+#: includes/getstart/plugin-activation.php:54
+msgid "Activating"
+msgstr "Активация"
+
+#: includes/getstart/plugin-activation.php:53
+msgid "Installing"
+msgstr "Установка"
+
+#: includes/getstart/plugin-activation.php:43
+msgid "We highly recommend installing the WPElemento Importer plugin for importing the demo content with Elementor."
+msgstr "Мы настоятельно рекомендуем установить плагин WPElemento Importer для импорта демо-контента в Elementor."
+
+#: includes/getstart/getstart.php:198
+msgid "elemento20"
+msgstr "elemento20"
+
+#: includes/getstart/getstart.php:196
+msgid "UPGRADE NOW"
+msgstr "ОБНОВИТЬ СЕЙЧАС"
+
+#: includes/getstart/getstart.php:172
+msgid "Cafe WordPress Theme"
+msgstr "Тема Cafe WordPress"
+
+#: includes/customizer.php:991
+msgid "Fixed"
+msgstr "Фиксировано"
+
+#: includes/customizer.php:990
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: includes/customizer.php:980
+msgid "Header Image Attachment"
+msgstr "Вложение фонового изображения"
+
+#: includes/customizer.php:108
+msgid "Site Tagline Font Size"
+msgstr "Размер шрифта краткого описания сайта"
+
+#: includes/customizer.php:61
+msgid "Site Title Font Size"
+msgstr "Размер шрифта названия сайта"
+
+#: includes/customizer.php:47
+msgid "Tagline Enable / Disable Button"
+msgstr "Кнопка краткого описания:"
+
+#: includes/customizer.php:34
+msgid "Site Title Enable / Disable Button"
+msgstr "Кнопка названия сайта:"
+
+#: includes/customizer.php:27
+msgid "Enable / Disable Site Title and Tagline"
+msgstr "Название и краткое описание сайта"
+
+#: includes/customizer.php:383
+msgid "Content  Typography"
+msgstr "Типографика содержимого"
+
+#: includes/customizer.php:374
+msgid "Content Typography"
+msgstr "Типографика содержимого"
+
+#: includes/customizer.php:347
+msgid "Heading 6 Typography"
+msgstr "Типографика заголовка 6"
+
+#: includes/customizer.php:338
+msgid "Heading 6"
+msgstr "Заголовок 6"
+
+#: includes/customizer.php:311
+msgid "Heading 5 Typography"
+msgstr "Типографика заголовка 5"
+
+#: includes/customizer.php:302
+msgid "Heading 5"
+msgstr "Заголовок 5"
+
+#: includes/customizer.php:275
+msgid "Heading 4 Typography"
+msgstr "Типографика заголовка 4"
+
+#: includes/customizer.php:266
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+#: includes/customizer.php:239
+msgid "Heading 3 Typography"
+msgstr "Типографика заголовка 3"
+
+#: includes/customizer.php:230
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+#: includes/customizer.php:203
+msgid "Heading 2 Typography"
+msgstr "Типографика заголовка 2"
+
+#: includes/customizer.php:194
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: includes/customizer.php:167
+msgid "Heading 1 Typography"
+msgstr "Типографика заголовка 1"
+
+#: includes/customizer.php:158
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: includes/customizer.php:152
+msgid "Typography"
+msgstr "Типографика"
+
+#: template-parts/content-post.php:44
+msgid "Categories:"
+msgstr "Рубрики:"
+
+#: template-parts/content-post.php:31 template-parts/content.php:51
+#: template-parts/content.php:94
+msgid "% Comments"
+msgstr "Комментарии %"
+
+#: template-parts/content-post.php:31 template-parts/content.php:51
+#: template-parts/content.php:94
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: includes/getstart/getstart.php:191
+msgid "Unique Designs"
+msgstr "Уникальные дизайны"
+
+#: includes/getstart/getstart.php:190
+msgid "Responsive Layout"
+msgstr "Адаптивный макет"
+
+#: includes/getstart/getstart.php:189
+msgid "Mobile Friendly Layout"
+msgstr "Удобный макет для мобильных"
+
+#: includes/getstart/getstart.php:188
+msgid "Zero Coding Required"
+msgstr "Кодирование не требуется"
+
+#: includes/getstart/getstart.php:187
+msgid "Drag and drop features"
+msgstr "Возможности перетаскивания"
+
+#: includes/getstart/getstart.php:186
+msgid "Multilingual"
+msgstr "Многоязычный"
+
+#: includes/getstart/getstart.php:184
+msgid "premium Features"
+msgstr "возможности премиум-версии"
+
+#: includes/getstart/getstart.php:176
+msgid "Live Demo"
+msgstr "Онлайн-демо"
+
+#: includes/getstart/getstart.php:169
+msgid "Premium Theme"
+msgstr "Премиум-тема"
+
+#: includes/getstart/getstart.php:99
+msgid "Welcome to WPElemento Theme!"
+msgstr "Добро пожаловать на сайт WPElemento Theme!"
+
+#: includes/customizer.php:1611 includes/getstart/getstart.php:152
+msgid "Footer Widget"
+msgstr "Виджет подвала:"
+
+#: includes/customizer.php:736 includes/getstart/getstart.php:149
+msgid "Header Image"
+msgstr "Изображение заголовка"
+
+#: includes/getstart/getstart.php:143
+msgid "Menus"
+msgstr "Меню"
+
+#: includes/getstart/getstart.php:140
+msgid "Upload your logo"
+msgstr "Загрузить свой логотип"
+
+#: includes/getstart/getstart.php:136
+msgid "Link to customizer"
+msgstr "Ссылка на настройку темы"
+
+#: includes/getstart/getstart.php:132
+msgid "Review"
+msgstr "Отзыв"
+
+#: includes/getstart/getstart.php:130
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Все свойства и аспекты этой WordPress темы феноменальны. Я бы рекомендовал эту тему всем."
+
+#: includes/getstart/getstart.php:129
+msgid "Reviews & Testimonials"
+msgstr "Рекомендации и отзывы"
+
+#: includes/getstart/getstart.php:126
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: includes/getstart/getstart.php:124
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Наша целеустремленная команда хорошо подготовлена, чтобы помочь вам в случае вопросов и сомнений относительно нашей темы."
+
+#: includes/getstart/getstart.php:123
+msgid "Need Support?"
+msgstr "Нужна поддержка?"
+
+#: includes/getstart/getstart.php:120 includes/go-pro/class-upgrade-pro.php:88
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/getstart/getstart.php:118
+msgid "The complete procedure to configure and manage a WordPress Website from the beginning is shown in this documentation ."
+msgstr "Полная процедура настройки и управления сайтом WordPress с самого начала показана в этой документации."
+
+#: includes/getstart/getstart.php:117
+msgid "Help Docs"
+msgstr "Справочная документация"
+
+#: includes/getstart/getstart.php:114
+msgid "Customizing"
+msgstr "Индивидуализация"
+
+#: includes/getstart/getstart.php:112
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr "Чтобы начать настройку своего сайта, начните с нажатия «Настроить»."
+
+#: includes/getstart/getstart.php:111
+msgid "Theme Customizer"
+msgstr "Настройка темы"
+
+#: includes/getstart/getstart.php:75
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+#: includes/getstart/getstart.php:74
+msgid "Setup With Customizer"
+msgstr "Установка с помощью Настройки темы"
+
+#: includes/customizer.php:1303
+msgid "Enter a value in pixels. Example:15px"
+msgstr "Введите значение в px. Напр: 15px"
+
+#: includes/customizer.php:1298
+msgid "Single Post Image Border Radius(px)"
+msgstr "Радиус рамки изображения отдельной записи (px)"
+
+#: includes/customizer.php:1287
+msgid "Enable / Disable Single Post Image"
+msgstr "Изображение отдельной записи:"
+
+#: includes/customizer.php:1266
+msgid "Enable / Disable Single Post Category"
+msgstr "Рубрика отдельной записи:"
+
+#: includes/customizer.php:1256
+msgid "Enable / Disable Single Post Tag"
+msgstr "Метка отдельной записи:"
+
+#: includes/customizer.php:1187
+msgid "Blog Post Content Limit"
+msgstr "Ограничение на содержимое записей в блоге"
+
+#: includes/customizer.php:1176
+msgid "Enable / Disable Post Image"
+msgstr "Изображение записи:"
+
+#: includes/customizer.php:1166
+msgid "Enable / Disable Post Comment"
+msgstr "Комментарий записи:"
+
+#: includes/customizer.php:1156
+msgid "Enable / Disable Post Author"
+msgstr "Автор записи:"
+
+#: includes/customizer.php:1146
+msgid "Enable / Disable Post Date"
+msgstr "Дата записи:"
+
+#: includes/customizer.php:1087
+msgid "Here you can add post information."
+msgstr "Здесь вы можете добавить информацию о записи."
+
+#: includes/customizer.php:1086
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: includes/customizer.php:755
+msgid "Here you can enable or disable your scroller."
+msgstr "Прокрутка:"
+
+#: includes/customizer.php:744
+msgid "Here you can enable or disable your preloader."
+msgstr "Анимация загрузки:"
+
+#: includes/customizer.php:729
+msgid "Additional Settings"
+msgstr "Дополнительные настройки"
+
+#: includes/customizer.php:556
+msgid "Submenu Hover Background Color"
+msgstr "Цвет фона подменю при наведении"
+
+#: includes/customizer.php:537
+msgid "Submenu Hover Color"
+msgstr "Цвет подменю при наведении"
+
+#: includes/customizer.php:519
+msgid "Submenu Color"
+msgstr "Цвет подменю"
+
+#: includes/customizer.php:499
+msgid "Menu Hover Color"
+msgstr "Цвет меню при наведении"
+
+#: includes/customizer.php:480
+msgid "Menu Color"
+msgstr "Цвет меню"
+
+#: includes/customizer.php:94 includes/customizer.php:467
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: includes/customizer.php:93 includes/customizer.php:466
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: includes/customizer.php:92 includes/customizer.php:465
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: includes/customizer.php:91 includes/customizer.php:464
+msgid "Normal"
+msgstr "Обычный"
+
+#: includes/customizer.php:454
+msgid "Menu Text Transform"
+msgstr "Преобразование текста меню"
+
+#: includes/customizer.php:437
+msgid "Enter a value in pixels. Example:20px"
+msgstr "Введите значение в px. Напр: 20px"
+
+#: includes/customizer.php:431
+msgid "Menu Font Size(px)"
+msgstr "Размер шрифта меню (px)"
+
+#: functions.php:446 includes/customizer.php:130 includes/customizer.php:723
+#: includes/customizer.php:1805
+msgid "https://www.wpelemento.com/products/coffee-shop-wordpress-theme"
+msgstr "https://www.wpelemento.com/products/coffee-shop-wordpress-theme"
+
+#: functions.php:445
+msgid "https://wordpress.org/support/theme/cafe-elementor/reviews/"
+msgstr "https://wordpress.org/support/theme/cafe-elementor/reviews/"
+
+#: functions.php:444
+msgid "https://wordpress.org/support/theme/cafe-elementor/"
+msgstr "https://wordpress.org/support/theme/cafe-elementor/"
+
+#: functions.php:443
+msgid "https://preview.wpelemento.com/theme-documentation/cafe-elementor/"
+msgstr "https://preview.wpelemento.com/theme-documentation/cafe-elementor/"
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A link to set a new password will be sent to your email address."
+msgstr "Ссылка для установки нового пароля будет отправлена ​​на ваш email-адрес."
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr "Email-адрес"
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr "Регистрация"
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr "Войти"
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr "Пароль"
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr "Имя пользователя или email-адрес"
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr "Вход"
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#. Template Name of the theme
+msgid "Right Sidebar Template"
+msgstr "Шаблон правой боковой панели"
+
+#. Template Name of the theme
+msgid "Left Sidebar Template"
+msgstr "Шаблон левой боковой панели"
+
+#. Template Name of the theme
+msgid "Home Page Template"
+msgstr "Шаблон главной страницы"
+
+#: template-parts/pagination.php:5
+msgid "Next page"
+msgstr "След. страница"
+
+#: template-parts/pagination.php:4
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: template-parts/content.php:32 template-parts/content.php:75
+#: template-parts/related-posts.php:40
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: template-parts/content.php:26 template-parts/content.php:69
+#: template-parts/related-posts.php:35
+msgid "Post Image"
+msgstr "Изображение записи"
+
+#: template-parts/content-post.php:40
+msgid "Tags:"
+msgstr "Метки:"
+
+#: single.php:23
+msgid "comments"
+msgstr "- комментарии"
+
+#: single.php:16
+msgid " Posted On "
+msgstr " Запись в "
+
+#: footer.php:46 searchform.php:3 sidebar.php:14
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:2
+msgid "Type Here..."
+msgstr "Введите сюда..."
+
+#: search.php:15
+msgid "You searched: "
+msgstr "Вы искали: "
+
+#: index.php:20
+msgid "Blog"
+msgstr "Блог"
+
+#: includes/getstart/plugin-activation.php:40 includes/tgm/tgm.php:17
+msgid "WPElemento Importer"
+msgstr "WPElemento Importer"
+
+#: includes/tgm/tgm.php:11
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm/class-tgm-plugin-activation.php:3514
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: includes/tgm/class-tgm-plugin-activation.php:3512
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3511
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: includes/tgm/class-tgm-plugin-activation.php:3509
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm/class-tgm-plugin-activation.php:3506
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: includes/tgm/class-tgm-plugin-activation.php:3504
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3503
+#: includes/tgm/class-tgm-plugin-activation.php:3511
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3503
+#: includes/tgm/class-tgm-plugin-activation.php:3511
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3503
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: includes/tgm/class-tgm-plugin-activation.php:3501
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3497
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/tgm/class-tgm-plugin-activation.php:3495
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm/class-tgm-plugin-activation.php:3492
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: includes/tgm/class-tgm-plugin-activation.php:3152
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: includes/tgm/class-tgm-plugin-activation.php:2928
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: includes/tgm/class-tgm-plugin-activation.php:2902
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: includes/tgm/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: includes/tgm/class-tgm-plugin-activation.php:2794
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: includes/tgm/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: includes/tgm/class-tgm-plugin-activation.php:2751
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагины для установки. Действий не требуется."
+
+#: includes/getstart/plugin-activation.php:150
+#: includes/tgm/class-tgm-plugin-activation.php:2720
+msgid "Activate"
+msgstr "Активировать"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2717
+msgid "Update"
+msgstr "Обновить"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2711
+msgid "Install"
+msgstr "Установить"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2678
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm/class-tgm-plugin-activation.php:2608
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm/class-tgm-plugin-activation.php:2602
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm/class-tgm-plugin-activation.php:2597
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2548
+msgid "Status"
+msgstr "Статус"
+
+#: includes/getstart/getstart.php:65
+#: includes/tgm/class-tgm-plugin-activation.php:2547
+msgid "Version"
+msgstr "Версия"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2543
+msgid "Type"
+msgstr "Тип"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2542
+msgid "Source"
+msgstr "Источник"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2541
+msgid "Plugin"
+msgstr "Плагин"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2527
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: includes/tgm/class-tgm-plugin-activation.php:2504
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2492
+msgid "Minimum required version:"
+msgstr "Мин. требуемая версия:"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2484
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2476
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2394
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2390
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновлений <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2386
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2382
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: includes/tgm/class-tgm-plugin-activation.php:2336
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2327
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2324
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2321
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: includes/getstart/plugin-activation.php:153
+#: includes/tgm/class-tgm-plugin-activation.php:2315
+msgid "Active"
+msgstr "Активен"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2313
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2309
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2292
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2289
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2286
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2270
+msgid "Recommended"
+msgstr "Рекомендован"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2267
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:79
+#: woocommerce/myaccount/form-login.php:86
+#: woocommerce/myaccount/form-login.php:93
+msgid "Required"
+msgstr "Необходимый"
+
+#. translators: %s: version number
+#: includes/tgm/class-tgm-plugin-activation.php:1976
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/tgm/class-tgm-plugin-activation.php:1115
+#: includes/tgm/class-tgm-plugin-activation.php:2942
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: includes/tgm/class-tgm-plugin-activation.php:931
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: includes/tgm/class-tgm-plugin-activation.php:928
+#: includes/tgm/class-tgm-plugin-activation.php:931
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: includes/tgm/class-tgm-plugin-activation.php:928
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: includes/tgm/class-tgm-plugin-activation.php:517
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: includes/tgm/class-tgm-plugin-activation.php:516
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: includes/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#: includes/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: includes/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#. translators: 1: dashboard link.
+#: includes/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: includes/tgm/class-tgm-plugin-activation.php:388
+#: includes/tgm/class-tgm-plugin-activation.php:2946
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующие плагины были успешно активированы:"
+msgstr[2] "Следующие плагинов был успешно активирован:"
+
+#: includes/tgm/class-tgm-plugin-activation.php:387
+#: includes/tgm/class-tgm-plugin-activation.php:3153
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: includes/tgm/class-tgm-plugin-activation.php:386
+#: includes/tgm/class-tgm-plugin-activation.php:821
+#: includes/tgm/class-tgm-plugin-activation.php:2527
+#: includes/tgm/class-tgm-plugin-activation.php:3574
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: includes/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: includes/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: includes/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: includes/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий требуемый плагин в настоящее время не активен: %1$s."
+msgstr[1] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+msgstr[2] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующий плагин до последней версии: %1$s."
+msgstr[1] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующие плагины до последней версии: %1$s."
+msgstr[2] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующие плагины до последней версии: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для этой темы рекомендуются следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#: includes/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: includes/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: includes/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить необходимыe плагины"
+
+#: includes/go-pro/class-upgrade-pro.php:75
+msgid "Cafe Elementor Pro"
+msgstr "Cafe Elementor Pro"
+
+#: includes/customizer.php:1673
+msgid "Section Enable / Disable"
+msgstr "Раздел"
+
+#: includes/customizer.php:1666
+msgid "Enable / Disable Footer Link"
+msgstr "Ссылка подвала: вкл/откл"
+
+#: includes/customizer.php:1630
+msgid "Footer Copyright Text"
+msgstr "Текст авторского права в подвале"
+
+#: includes/customizer.php:1595
+msgid "Here you can change copyright text"
+msgstr "Здесь вы можете изменить текст авторского права"
+
+#: includes/customizer.php:1594
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: includes/customizer.php:708 includes/customizer.php:1891
+msgid "Add the social icon url here."
+msgstr "Добавить URL на значок соцсети здесь."
+
+#: includes/customizer.php:707 includes/customizer.php:1890
+msgid "Social Link"
+msgstr "Ссылка соцсети"
+
+#: includes/customizer.php:702 includes/customizer.php:1885
+msgid "Add the fontawesome class ex: \"fab fa-facebook-f\"."
+msgstr "Добавить класс Font Awesome напр.: \"fab fa-facebook-f\"."
+
+#: includes/customizer.php:701 includes/customizer.php:1884
+msgid "Icon"
+msgstr "Значок"
+
+#: includes/customizer.php:695 includes/customizer.php:1878
+msgid "Add New Social Icon"
+msgstr "Добавить значок новой соцсетей"
+
+#: includes/customizer.php:692
+msgid "Social Icon"
+msgstr "Значок соцсети"
+
+#: includes/customizer.php:683
+msgid "Social Media Link"
+msgstr "Ссылка на соцсети"
+
+#: includes/customizer.php:40 includes/customizer.php:53
+#: includes/customizer.php:660 includes/customizer.php:674
+#: includes/customizer.php:1658 includes/customizer.php:1679
+msgid "Disable"
+msgstr "Отключить"
+
+#: includes/customizer.php:39 includes/customizer.php:52
+#: includes/customizer.php:659 includes/customizer.php:673
+#: includes/customizer.php:1657 includes/customizer.php:1678
+msgid "Enable"
+msgstr "Включить"
+
+#: includes/customizer.php:654
+msgid "Enable/Disable Shopping Cart"
+msgstr "Корзина:"
+
+#: includes/customizer.php:644
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: includes/customizer.php:635
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: includes/customizer.php:629
+msgid "Get Started Button"
+msgstr "Кнопка Приступить к работе"
+
+#: includes/customizer.php:613
+msgid "Add Address"
+msgstr "Добавить адрес"
+
+#: includes/customizer.php:596
+msgid "Add Email Address"
+msgstr "Добавить email-адрес"
+
+#: includes/customizer.php:578
+msgid "Add Phone Number"
+msgstr "Добавить № телефона"
+
+#: includes/customizer.php:413
+msgid "Here you can add header information."
+msgstr "Здесь вы можете добавить информацию в заголовке."
+
+#: includes/customizer.php:412
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: header.php:127
+msgid "View Shopping Cart"
+msgstr "Просмотр корзины покупок"
+
+#: header.php:99 includes/customizer.php:420
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:334
+msgid "Footer sidebar 4"
+msgstr "Боковая панель 4 подвала"
+
+#: functions.php:264
+msgid "This sidebar will be shown next to the content."
+msgstr "Эта боковая панель будет показана рядом с содержимым."
+
+#: functions.php:262
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:229
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#. translators: %s: Date
+#: functions.php:221
+msgid "%1$s at %2$s"
+msgstr "%1$s на %2$s"
+
+#: functions.php:204 functions.php:224 template-parts/content-page.php:23
+#: template-parts/content-post.php:34 template-parts/content.php:54
+#: template-parts/content.php:97
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions.php:203
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: functions.php:147
+msgid "Default Header Image"
+msgstr "Изображение заголовка по умолчанию"
+
+#: functions.php:114
+msgid "Main menu"
+msgstr "Главное меню"
+
+#. translators: %s: WordPress
+#: footer.php:105
+msgid "Proudly powered by %s"
+msgstr "На платформе %s"
+
+#: footer.php:105
+msgid "https://wordpress.org"
+msgstr "https://ru.wordpress.org"
+
+#. translators: %s: WP Elemento
+#: footer.php:99
+msgid " By %s"
+msgstr " От %s"
+
+#: footer.php:90
+msgid "Cafe Elementor WordPress Theme"
+msgstr "Тема Cafe Elementor WordPress"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:52 comments.php:66
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:51 comments.php:65
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:49 comments.php:63
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:28
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:28 includes/customizer.php:1551
+msgid "The page you are looking for may have been moved, deleted, or possibly never existed."
+msgstr "Возможно, страница, которую вы ищете, была перемещена, удалена или возможно, никогда не существовала."
+
+#: 404.php:15 includes/customizer.php:1536
+msgid "404 Error!"
+msgstr "Ошибка 404!"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.wpelemento.com/"
+msgstr "https://www.wpelemento.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "wpelemento"
+msgstr "wpelemento"
+
+#. Theme URI of the theme
+#: style.css footer.php:89
+#, gp-priority: low
+msgid "https://www.wpelemento.com/products/free-cafe-wordpress-theme"
+msgstr "https://www.wpelemento.com/products/free-cafe-wordpress-theme"
