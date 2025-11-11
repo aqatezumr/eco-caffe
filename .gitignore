@@ -1,8 +1,23 @@
+# WordPress
 wp-config.php
 wp-content/uploads/
+
+# Логи и дампы
 *.log
 *.sql
-.env
-node_modules/
-vendor/
 
+# Секреты
+.env
+
+# Node.js
+node_modules/
+
+# PHP (Composer)
+vendor/
+wp-content/**/vendor/
+
+# IDE и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
